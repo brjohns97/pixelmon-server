@@ -1,0 +1,87 @@
+---- Minecraft Crash Report ----
+// I just don't know what went wrong :(
+
+Time: 11/9/21 7:10 PM
+Description: Ticking block entity
+
+java.lang.ClassCastException: java.util.HashMap$Node cannot be cast to org.apache.commons.lang3.tuple.Pair
+	at com.pixelmonmod.pixelmon.api.recipe.InfuserRecipes.getRecipe(InfuserRecipes.java:87)
+	at com.pixelmonmod.pixelmon.blocks.tileEntities.TileEntityInfuser.canInfuse(TileEntityInfuser.java:449)
+	at com.pixelmonmod.pixelmon.blocks.tileEntities.TileEntityInfuser.func_73660_a(TileEntityInfuser.java:370)
+	at net.minecraft.world.World.func_72939_s(World.java:1838)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at com.pixelmonmod.pixelmon.api.recipe.InfuserRecipes.getRecipe(InfuserRecipes.java:87)
+	at com.pixelmonmod.pixelmon.blocks.tileEntities.TileEntityInfuser.canInfuse(TileEntityInfuser.java:449)
+	at com.pixelmonmod.pixelmon.blocks.tileEntities.TileEntityInfuser.func_73660_a(TileEntityInfuser.java:370)
+
+-- Block entity being ticked --
+Details:
+	Name: pixelmon:compressor // com.pixelmonmod.pixelmon.blocks.tileEntities.TileEntityInfuser
+	Block type: ID #264 (tile.infuser // com.pixelmonmod.pixelmon.blocks.machines.BlockInfuser // pixelmon:infuser)
+	Block data value: 9 / 0x9 / 0b1001
+	Block location: World: (30,69,561), Chunk: (at 14,4,1 in 1,35; contains blocks 16,0,560 to 31,255,575), Region: (0,1; contains chunks 0,32 to 31,63, blocks 0,0,512 to 511,255,1023)
+	Actual block type: ID #264 (tile.infuser // com.pixelmonmod.pixelmon.blocks.machines.BlockInfuser // pixelmon:infuser)
+	Actual block data value: 9 / 0x9 / 0b1001
+Stacktrace:
+	at net.minecraft.world.World.func_72939_s(World.java:1838)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+
+-- Affected level --
+Details:
+	Level name: world
+	All players: 1 total; [EntityPlayerMP['Passionate_Panda'/180, l='world', x=32.09, y=69.00, z=561.33]]
+	Chunk stats: ServerChunkCache: 843 Drop: 0
+	Level seed: -7451960488880858197
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (8,64,8), Chunk: (at 8,4,8 in 0,0; contains blocks 0,0,0 to 15,255,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 6754195 game time, 6786892 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 16379 (now: false), thunder time: 88995 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:748)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 5.8.0-63-generic
+	Java Version: 1.8.0_292, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 2603700648 bytes (2483 MB) / 3221225472 bytes (3072 MB) up to 3221225472 bytes (3072 MB)
+	JVM Flags: 11 total; -Xms3G -Xmx3G -XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:MaxGCPauseMillis=100 -XX:+DisableExplicitGC -XX:TargetSurvivorRatio=90 -XX:G1NewSizePercent=50 -XX:G1MaxNewSizePercent=80 -XX:G1MixedGCLiveThresholdPercent=50 -XX:+AlwaysPreTouch
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	FML: MCP 9.42 Powered by Forge 14.23.5.2855 5 mods loaded, 5 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID        | Version      | Source                               | Signature                                |
+	|:------ |:--------- |:------------ |:------------------------------------ |:---------------------------------------- |
+	| LCHIJA | minecraft | 1.12.2       | minecraft.jar                        | None                                     |
+	| LCHIJA | mcp       | 9.42         | minecraft.jar                        | None                                     |
+	| LCHIJA | FML       | 8.0.99.99    | forge-1.12.2-14.23.5.2855.jar        | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge     | 14.23.5.2855 | forge-1.12.2-14.23.5.2855.jar        | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | pixelmon  | 8.3.1        | Pixelmon-1.12.2-8.3.1c-universal.jar | None                                     |
+
+	Loaded coremods (and transformers): 
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 20; [EntityPlayerMP['Passionate_Panda'/180, l='world', x=32.09, y=69.00, z=561.33]]
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)

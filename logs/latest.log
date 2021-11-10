@@ -1,0 +1,153 @@
+[19:22:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:22:52] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:22:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:22:52] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2855 for Minecraft 1.12.2 loading
+[19:22:52] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_292, running on Linux:amd64:5.8.0-63-generic, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[19:22:52] [main/INFO] [FML]: Searching /pixelmon/./mods for mods
+[19:22:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:22:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:22:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:22:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:22:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:22:53] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:22:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:22:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:22:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:22:54] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:22:54] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[19:22:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[19:22:58] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2855 Initialized
+[19:22:58] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[19:22:58] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[19:22:58] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[19:22:59] [Server thread/INFO] [FML]: Searching /pixelmon/./mods for mods
+[19:23:00] [Server thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[19:23:00] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[19:23:00] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, pixelmon] at CLIENT
+[19:23:00] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, pixelmon] at SERVER
+[19:23:01] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[19:23:01] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[19:23:01] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[19:23:01] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[19:23:01] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[19:23:01] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[19:23:01] [Server thread/INFO] [Pixelmon]: Loading Pixelmon version 8.3.3
+[19:23:02] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[19:23:02] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
+[19:23:02] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Found status: UP_TO_DATE Target: null
+[19:23:02] [Server thread/INFO] [Pixelmon]: Checking for migrations..
+[19:23:03] [Server thread/INFO] [Pixelmon]: Loading Advancements
+[19:23:06] [Server thread/INFO] [FML]: Applying holder lookups
+[19:23:06] [Server thread/INFO] [FML]: Holder lookups applied
+[19:23:06] [Server thread/INFO] [FML]: Applying holder lookups
+[19:23:06] [Server thread/INFO] [FML]: Holder lookups applied
+[19:23:06] [Server thread/INFO] [FML]: Applying holder lookups
+[19:23:06] [Server thread/INFO] [FML]: Holder lookups applied
+[19:23:06] [Server thread/INFO] [FML]: Applying holder lookups
+[19:23:06] [Server thread/INFO] [FML]: Holder lookups applied
+[19:23:06] [Server thread/INFO] [FML]: Injecting itemstacks
+[19:23:06] [Server thread/INFO] [FML]: Itemstack injection complete
+[19:23:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[19:23:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[19:23:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[19:23:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[19:23:06] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[19:23:07] [Server thread/INFO] [FML]: Applying holder lookups
+[19:23:07] [Server thread/INFO] [FML]: Holder lookups applied
+[19:23:07] [Server thread/INFO] [Pixelmon]: Registering shop items.
+[19:23:07] [Server thread/INFO] [Pixelmon]: Registering NPCs.
+[19:23:07] [Server thread/INFO] [Pixelmon]: Registering structures.
+[19:23:08] [Server thread/INFO] [Pixelmon]: Registering all drops.
+[19:23:08] [Server thread/INFO] [Pixelmon]: Registering battle rules.
+[19:23:08] [Server thread/INFO] [Pixelmon]: Registering Pokémon stats.
+[19:23:09] [Server thread/INFO] [Pixelmon]: Registering quests.
+[19:23:09] [Server thread/INFO] [Pixelmon]: Loaded 39 Quests.
+[19:23:10] [Server thread/INFO] [FML]: Injecting itemstacks
+[19:23:10] [Server thread/INFO] [FML]: Itemstack injection complete
+[19:23:10] [Server thread/INFO] [Pixelmon]: Registering spawn sets.
+[19:23:11] [Server thread/INFO] [Pixelmon]: Registering raid spawning.
+[19:23:11] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[19:23:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[19:23:12] [Server thread/INFO] [FML.ModTracker]: This world was saved with mod pixelmon version 8.3.1 and it is now at version 8.3.3, things may not work well
+[19:23:12] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:silph_scope Expected: 5383 Got: 5583
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:jade_orb Expected: 5363 Got: 5584
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:devon_scope Expected: 5356 Got: 5585
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:coin_case Expected: 5354 Got: 5586
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:pokeblock_case Expected: 5373 Got: 5587
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:liberty_pass Expected: 5364 Got: 5588
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:orange_petal Expected: 5371 Got: 5589
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:sparkling_stone Expected: 5385 Got: 5591
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:z_power_ring Expected: 5390 Got: 5592
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:prop_case Expected: 5375 Got: 5593
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:style_card Expected: 5387 Got: 5594
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:seal_case Expected: 5381 Got: 5595
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:yellow_petal Expected: 5389 Got: 5596
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:z_ring Expected: 5391 Got: 5597
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:holo_caster Expected: 5362 Got: 5598
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:green_petal Expected: 5360 Got: 5599
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:pink_petal Expected: 5372 Got: 5600
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:purple_petal Expected: 5376 Got: 5602
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:armor_pass Expected: 5352 Got: 5603
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:gold_teeth Expected: 5359 Got: 5606
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:sonias_book Expected: 5384 Got: 5607
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:fashion_case Expected: 5357 Got: 5608
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:crown_pass Expected: 5355 Got: 5609
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:oaks_letter Expected: 5368 Got: 5610
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:ss_ticket Expected: 5386 Got: 5612
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:blue_petal Expected: 5353 Got: 5613
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:oaks_parcel Expected: 5369 Got: 5614
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:hi_tech_earbuds Expected: 5361 Got: 5615
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:professors_mask Expected: 5374 Got: 5617
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:secret_key Expected: 5382 Got: 5619
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:forage_bag Expected: 5358 Got: 5620
+[19:23:12] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: pixelmon:old_sea_map Expected: 5370 Got: 5621
+[19:23:12] [Server thread/INFO] [FML]: Applying holder lookups
+[19:23:12] [Server thread/INFO] [FML]: Holder lookups applied
+[19:23:12] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@c7e262a)
+[19:23:13] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 734 advancements
+[19:23:13] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@c7e262a)
+[19:23:13] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@c7e262a)
+[19:23:13] [Server thread/INFO] [FML]: Loading dimension 72 (world) (net.minecraft.server.dedicated.DedicatedServer@c7e262a)
+[19:23:13] [Server thread/INFO] [FML]: Loading dimension 73 (world) (net.minecraft.server.dedicated.DedicatedServer@c7e262a)
+[19:23:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[19:23:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 26%
+[19:23:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.995s)! For help, type "help" or "?"
+[19:23:15] [Server thread/INFO] [FML]: Unloading dimension -1
+[19:23:15] [Server thread/INFO] [FML]: Unloading dimension 1
+[19:23:15] [Server thread/INFO] [FML]: Unloading dimension 72
+[19:23:15] [Server thread/INFO] [FML]: Unloading dimension 73
+[19:23:30] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Passionate_Panda is 4835fcda-44ba-4317-9fa5-f93dad94a15b
+[19:23:30] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[19:23:30] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2855,mcp@9.42,pixelmon@8.3.3
+[19:23:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:23:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Passionate_Panda[/192.168.1.1:28373] logged in with entity id 181 at (32.09040386252774, 69.0, 561.3277106029861)
+[19:23:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Passionate_Panda joined the game
+[19:38:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Passionate_Panda moved wrongly!
+[19:39:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Passionate_Panda moved wrongly!
+[19:40:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[19:41:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[19:41:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Passionate_Panda moved too quickly! 0.40608200822356366,-13.777345039284967,2.235882157930405
+[19:42:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Passionate_Panda moved wrongly!
+[19:44:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] Suicune has spawned in a Beach biome!
+[19:44:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spawned Suicune at: world x:-393, y:64, z:218
+[19:45:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[19:47:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Passionate_Panda lost connection: Disconnected
+[19:47:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Passionate_Panda left the game
+[19:48:13] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player nobeet55 is 9da6b745-653a-4185-9442-797ab82c7f93
+[19:48:13] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[19:48:13] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2855,mcp@9.42,pixelmon@8.3.3
+[19:48:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:48:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: nobeet55[/76.191.26.203:49245] logged in with entity id 3190 at (38.200911216715724, 69.0, 560.0256474613444)
+[19:48:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 joined the game
+[19:48:15] [Server thread/WARN] [Pixelmon]: Found invalid objective progress data in an instance of quest Defeat a Pokemon.json, resetting that instance!
+[19:48:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[19:48:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[19:48:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[19:48:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[19:48:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[19:48:46] [Server thread/INFO] [FML]: Unloading dimension 0
+[19:48:46] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[19:48:46] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[19:48:46] [Server Shutdown Thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 lost connection: Server closed
+[19:48:46] [Server Shutdown Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 left the game

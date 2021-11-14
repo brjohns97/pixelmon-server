@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "pixelmon:pokedex/pokedex_percent_10": {
+    "criteria": {
+      "pokedex_percent_10": "2021-11-12 21:58:05 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2021-11-10 22:19:52 -0600"
@@ -1133,6 +1139,12 @@
     },
     "done": true
   },
+  "pixelmon:types/capture_ground_10": {
+    "criteria": {
+      "capture_ground_10": "2021-11-12 23:45:28 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2021-11-07 13:07:24 -0600"
@@ -1406,6 +1418,7 @@
       "clownfish": "2021-11-07 00:40:17 -0500",
       "potato": "2021-11-05 22:28:56 -0500",
       "cooked_cod": "2021-11-07 00:40:02 -0500",
+      "raw_salmon": "2021-11-12 20:22:29 -0600",
       "bread": "2021-11-07 18:14:03 -0600",
       "rotten_flesh": "2021-11-10 19:41:47 -0600",
       "carrot": "2021-11-05 22:22:40 -0500"
@@ -2120,6 +2133,12 @@
     },
     "done": true
   },
+  "pixelmon:specs/spec_trigger": {
+    "criteria": {
+      "pink_spec_trigger": "2021-11-12 23:45:28 -0600"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2021-11-07 18:31:55 -0600"
@@ -2293,6 +2312,12 @@
   "pixelmon:recipes/machines/yellow_vending_machine": {
     "criteria": {
       "has_fresh_water": "2021-11-09 21:05:41 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:specs/pink_capture": {
+    "criteria": {
+      "pink_spec_trigger": "2021-11-12 23:45:28 -0600"
     },
     "done": true
   },

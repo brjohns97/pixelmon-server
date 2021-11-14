@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "pixelmon:pokedex/pokedex_percent_10": {
+    "criteria": {
+      "pokedex_percent_10": "2021-11-12 19:18:42 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2021-11-10 22:02:12 -0600"
@@ -137,9 +143,21 @@
     },
     "done": true
   },
+  "pixelmon:types/capture_normal_10": {
+    "criteria": {
+      "capture_normal_10": "2021-11-12 23:02:23 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2021-11-07 13:41:17 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:legendaries/articuno_capture_trigger": {
+    "criteria": {
+      "articuno_capture": "2021-11-12 21:20:37 -0600"
     },
     "done": true
   },
@@ -203,6 +221,12 @@
       "has_stone_pickaxe": "2021-11-05 22:51:46 -0500"
     },
     "done": true
+  },
+  "pixelmon:specs/clobbopus_jump_capture_all": {
+    "criteria": {
+      "3": "2021-11-12 19:41:00 -0600"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/shears": {
     "criteria": {
@@ -292,6 +316,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-11-05 22:50:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2021-11-13 17:32:07 -0600"
     },
     "done": true
   },
@@ -595,6 +625,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-11-07 13:41:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2021-11-13 02:21:27 -0600"
     },
     "done": true
   },
@@ -1052,6 +1088,12 @@
     },
     "done": true
   },
+  "pixelmon:specs/crystal_onix_trigger": {
+    "criteria": {
+      "crystal_onix_spec_trigger": "2021-11-12 21:57:26 -0600"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2021-11-05 23:56:43 -0500"
@@ -1136,6 +1178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2021-11-13 01:40:40 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_block": {
     "criteria": {
       "has_the_recipe": "2021-11-06 00:45:30 -0500"
@@ -1151,6 +1199,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2021-11-06 00:50:03 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_ground_10": {
+    "criteria": {
+      "capture_ground_10": "2021-11-12 21:57:26 -0600"
     },
     "done": true
   },
@@ -1208,6 +1262,12 @@
     },
     "done": true
   },
+  "pixelmon:wild_battle_victories/wild_battle_victory_1000": {
+    "criteria": {
+      "wild_battle_victory_1000": "2021-11-12 18:40:04 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-11-05 22:28:00 -0500"
@@ -1219,6 +1279,12 @@
       "has_quartz_block": "2021-11-05 23:53:40 -0500"
     },
     "done": true
+  },
+  "pixelmon:specs/shellos_jump_capture_all": {
+    "criteria": {
+      "5": "2021-11-12 20:10:22 -0600"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
@@ -1607,6 +1673,12 @@
     },
     "done": true
   },
+  "pixelmon:types/capture_water_10": {
+    "criteria": {
+      "capture_water_10": "2021-11-12 22:28:09 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2021-11-05 22:13:50 -0500"
@@ -1784,6 +1856,12 @@
   "pixelmon:recipes/decorative/white_vending_machine": {
     "criteria": {
       "has_fresh_water": "2021-11-08 21:30:46 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2021-11-13 17:32:07 -0600"
     },
     "done": true
   },
@@ -2045,6 +2123,18 @@
     },
     "done": true
   },
+  "pixelmon:types/capture_dragon_10": {
+    "criteria": {
+      "capture_dragon_10": "2021-11-13 00:51:26 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:specs/shellos_jump_capture": {
+    "criteria": {
+      "shellos_jump_spec_trigger": "2021-11-12 20:10:22 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-11-06 00:50:03 -0500"
@@ -2069,6 +2159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2021-11-13 17:32:07 -0600"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2021-11-05 22:13:20 -0500"
@@ -2090,6 +2186,12 @@
   "pixelmon:legendaries/legendary_capture_trigger": {
     "criteria": {
       "legendary_capture": "2021-11-07 23:31:07 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:specs/clobbopus_jump_capture": {
+    "criteria": {
+      "clobbopus_jump_spec_trigger": "2021-11-12 19:41:00 -0600"
     },
     "done": true
   },
@@ -2319,6 +2421,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2021-11-05 22:50:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2021-11-13 17:32:07 -0600"
     },
     "done": true
   },

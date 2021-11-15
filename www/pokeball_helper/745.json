@@ -1,0 +1,10 @@
+{
+    "name": "Lycanroc",
+    "catchRate": 90,
+    "baseSpeed": 112,
+    "weight": 25.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

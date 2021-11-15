@@ -1,0 +1,10 @@
+{
+    "name": "Kartana",
+    "catchRate": 45,
+    "baseSpeed": 109,
+    "weight": 0.1,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": true
+}

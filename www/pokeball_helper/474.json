@@ -1,0 +1,10 @@
+{
+    "name": "Porygon-Z",
+    "catchRate": 30,
+    "baseSpeed": 90,
+    "weight": 34.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

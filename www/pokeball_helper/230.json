@@ -1,0 +1,10 @@
+{
+    "name": "Kingdra",
+    "catchRate": 45,
+    "baseSpeed": 85,
+    "weight": 152.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

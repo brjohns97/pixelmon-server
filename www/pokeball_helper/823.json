@@ -1,0 +1,10 @@
+{
+    "name": "Corviknight",
+    "catchRate": 45,
+    "baseSpeed": 67,
+    "weight": 75.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

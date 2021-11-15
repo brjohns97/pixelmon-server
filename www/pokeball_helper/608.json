@@ -1,0 +1,10 @@
+{
+    "name": "Lampent",
+    "catchRate": 190,
+    "baseSpeed": 55,
+    "weight": 13.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

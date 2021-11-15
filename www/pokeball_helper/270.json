@@ -1,0 +1,10 @@
+{
+    "name": "Lotad",
+    "catchRate": 255,
+    "baseSpeed": 30,
+    "weight": 2.6,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

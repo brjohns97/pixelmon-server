@@ -1,0 +1,10 @@
+{
+    "name": "Gothorita",
+    "catchRate": 100,
+    "baseSpeed": 55,
+    "weight": 18.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

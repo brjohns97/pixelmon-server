@@ -1,0 +1,10 @@
+{
+    "name": "Flabebe",
+    "catchRate": 225,
+    "baseSpeed": 42,
+    "weight": 0.1,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

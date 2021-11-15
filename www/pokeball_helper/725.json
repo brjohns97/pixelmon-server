@@ -1,0 +1,10 @@
+{
+    "name": "Litten",
+    "catchRate": 45,
+    "baseSpeed": 70,
+    "weight": 4.3,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

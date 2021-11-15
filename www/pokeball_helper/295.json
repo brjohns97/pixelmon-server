@@ -1,0 +1,10 @@
+{
+    "name": "Exploud",
+    "catchRate": 45,
+    "baseSpeed": 68,
+    "weight": 84.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

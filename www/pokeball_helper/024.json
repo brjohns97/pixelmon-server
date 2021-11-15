@@ -1,0 +1,10 @@
+{
+    "name": "Arbok",
+    "catchRate": 90,
+    "baseSpeed": 80,
+    "weight": 65.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Hawlucha",
+    "catchRate": 100,
+    "baseSpeed": 118,
+    "weight": 21.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

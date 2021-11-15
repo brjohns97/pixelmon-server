@@ -1,0 +1,10 @@
+{
+    "name": "Trumbeak",
+    "catchRate": 120,
+    "baseSpeed": 75,
+    "weight": 14.8,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Espeon",
+    "catchRate": 45,
+    "baseSpeed": 110,
+    "weight": 26.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

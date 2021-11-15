@@ -1,0 +1,10 @@
+{
+    "name": "Unown",
+    "catchRate": 225,
+    "baseSpeed": 48,
+    "weight": 5.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Totodile",
+    "catchRate": 45,
+    "baseSpeed": 43,
+    "weight": 9.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

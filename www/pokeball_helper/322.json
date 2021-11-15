@@ -1,0 +1,10 @@
+{
+    "name": "Numel",
+    "catchRate": 255,
+    "baseSpeed": 35,
+    "weight": 24.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

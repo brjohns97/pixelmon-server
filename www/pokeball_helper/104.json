@@ -1,0 +1,10 @@
+{
+    "name": "Cubone",
+    "catchRate": 190,
+    "baseSpeed": 35,
+    "weight": 6.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

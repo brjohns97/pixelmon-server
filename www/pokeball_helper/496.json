@@ -1,0 +1,10 @@
+{
+    "name": "Servine",
+    "catchRate": 45,
+    "baseSpeed": 83,
+    "weight": 16.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

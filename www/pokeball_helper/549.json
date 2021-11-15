@@ -1,0 +1,10 @@
+{
+    "name": "Lilligant",
+    "catchRate": 75,
+    "baseSpeed": 90,
+    "weight": 16.3,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

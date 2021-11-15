@@ -1,0 +1,10 @@
+{
+    "name": "Hydreigon",
+    "catchRate": 45,
+    "baseSpeed": 98,
+    "weight": 160.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Mothim",
+    "catchRate": 45,
+    "baseSpeed": 66,
+    "weight": 23.3,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

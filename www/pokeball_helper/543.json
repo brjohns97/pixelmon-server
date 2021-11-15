@@ -1,0 +1,10 @@
+{
+    "name": "Venipede",
+    "catchRate": 255,
+    "baseSpeed": 57,
+    "weight": 5.3,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

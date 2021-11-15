@@ -1,0 +1,10 @@
+{
+    "name": "Meowth",
+    "catchRate": 255,
+    "baseSpeed": 90,
+    "weight": 4.2,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

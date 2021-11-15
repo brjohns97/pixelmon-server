@@ -1,0 +1,10 @@
+{
+    "name": "Groudon",
+    "catchRate": 5,
+    "baseSpeed": 90,
+    "weight": 950.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Magcargo",
+    "catchRate": 75,
+    "baseSpeed": 30,
+    "weight": 55.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

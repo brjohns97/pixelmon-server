@@ -1,0 +1,10 @@
+{
+    "name": "Dodrio",
+    "catchRate": 45,
+    "baseSpeed": 110,
+    "weight": 85.2,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

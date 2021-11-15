@@ -1,0 +1,10 @@
+{
+    "name": "Drowzee",
+    "catchRate": 190,
+    "baseSpeed": 42,
+    "weight": 32.4,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

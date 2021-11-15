@@ -1,0 +1,10 @@
+{
+    "name": "Lumineon",
+    "catchRate": 75,
+    "baseSpeed": 91,
+    "weight": 24.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

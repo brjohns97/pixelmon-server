@@ -1,0 +1,10 @@
+{
+    "name": "Eiscue",
+    "catchRate": 60,
+    "baseSpeed": 50,
+    "weight": 89.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

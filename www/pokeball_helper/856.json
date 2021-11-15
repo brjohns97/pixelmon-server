@@ -1,0 +1,10 @@
+{
+    "name": "Hatenna",
+    "catchRate": 235,
+    "baseSpeed": 39,
+    "weight": 3.4,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

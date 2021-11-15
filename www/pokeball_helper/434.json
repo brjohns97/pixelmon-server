@@ -1,0 +1,10 @@
+{
+    "name": "Stunky",
+    "catchRate": 225,
+    "baseSpeed": 74,
+    "weight": 19.2,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

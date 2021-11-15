@@ -1,0 +1,10 @@
+{
+    "name": "Lunatone",
+    "catchRate": 45,
+    "baseSpeed": 70,
+    "weight": 168.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

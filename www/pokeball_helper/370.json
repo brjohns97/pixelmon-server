@@ -1,0 +1,10 @@
+{
+    "name": "Luvdisc",
+    "catchRate": 225,
+    "baseSpeed": 97,
+    "weight": 8.7,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

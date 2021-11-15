@@ -1,0 +1,10 @@
+{
+    "name": "Ponyta",
+    "catchRate": 190,
+    "baseSpeed": 90,
+    "weight": 30.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

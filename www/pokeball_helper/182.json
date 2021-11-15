@@ -1,0 +1,10 @@
+{
+    "name": "Bellossom",
+    "catchRate": 45,
+    "baseSpeed": 50,
+    "weight": 5.8,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

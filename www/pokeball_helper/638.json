@@ -1,0 +1,10 @@
+{
+    "name": "Cobalion",
+    "catchRate": 3,
+    "baseSpeed": 108,
+    "weight": 250.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

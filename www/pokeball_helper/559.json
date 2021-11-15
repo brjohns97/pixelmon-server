@@ -1,0 +1,10 @@
+{
+    "name": "Scraggy",
+    "catchRate": 180,
+    "baseSpeed": 48,
+    "weight": 11.8,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

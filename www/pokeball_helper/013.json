@@ -1,0 +1,10 @@
+{
+    "name": "Weedle",
+    "catchRate": 255,
+    "baseSpeed": 50,
+    "weight": 3.2,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

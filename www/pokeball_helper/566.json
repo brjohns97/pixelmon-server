@@ -1,0 +1,10 @@
+{
+    "name": "Archen",
+    "catchRate": 45,
+    "baseSpeed": 70,
+    "weight": 9.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

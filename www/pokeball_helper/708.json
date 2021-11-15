@@ -1,0 +1,10 @@
+{
+    "name": "Phantump",
+    "catchRate": 120,
+    "baseSpeed": 38,
+    "weight": 7.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

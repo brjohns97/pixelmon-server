@@ -1,0 +1,10 @@
+{
+    "name": "Poliwag",
+    "catchRate": 255,
+    "baseSpeed": 90,
+    "weight": 12.4,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

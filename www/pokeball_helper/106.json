@@ -1,0 +1,10 @@
+{
+    "name": "Hitmonlee",
+    "catchRate": 45,
+    "baseSpeed": 87,
+    "weight": 49.8,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

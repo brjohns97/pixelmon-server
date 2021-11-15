@@ -1,0 +1,10 @@
+{
+    "name": "Patrat",
+    "catchRate": 255,
+    "baseSpeed": 42,
+    "weight": 11.6,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

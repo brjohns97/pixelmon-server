@@ -1,0 +1,10 @@
+{
+    "name": "Rampardos",
+    "catchRate": 45,
+    "baseSpeed": 58,
+    "weight": 102.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

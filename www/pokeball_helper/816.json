@@ -1,0 +1,10 @@
+{
+    "name": "Sobble",
+    "catchRate": 45,
+    "baseSpeed": 70,
+    "weight": 4.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

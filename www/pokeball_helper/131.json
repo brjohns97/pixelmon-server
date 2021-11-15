@@ -1,0 +1,10 @@
+{
+    "name": "Lapras",
+    "catchRate": 45,
+    "baseSpeed": 60,
+    "weight": 220.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

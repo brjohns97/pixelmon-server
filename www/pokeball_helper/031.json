@@ -1,0 +1,10 @@
+{
+    "name": "Nidoqueen",
+    "catchRate": 45,
+    "baseSpeed": 76,
+    "weight": 60.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

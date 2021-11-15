@@ -1,0 +1,10 @@
+{
+    "name": "Dusknoir",
+    "catchRate": 45,
+    "baseSpeed": 45,
+    "weight": 106.6,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

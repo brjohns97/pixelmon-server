@@ -1,0 +1,10 @@
+{
+    "name": "Hoppip",
+    "catchRate": 255,
+    "baseSpeed": 50,
+    "weight": 0.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

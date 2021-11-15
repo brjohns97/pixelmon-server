@@ -1,0 +1,10 @@
+{
+    "name": "MimeJr",
+    "catchRate": 145,
+    "baseSpeed": 60,
+    "weight": 13.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

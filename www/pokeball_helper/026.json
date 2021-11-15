@@ -1,0 +1,10 @@
+{
+    "name": "Raichu",
+    "catchRate": 75,
+    "baseSpeed": 110,
+    "weight": 30.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

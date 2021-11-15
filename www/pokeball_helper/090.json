@@ -1,0 +1,10 @@
+{
+    "name": "Shellder",
+    "catchRate": 190,
+    "baseSpeed": 40,
+    "weight": 4.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

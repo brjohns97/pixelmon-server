@@ -1,0 +1,10 @@
+{
+    "name": "Amaura",
+    "catchRate": 45,
+    "baseSpeed": 46,
+    "weight": 25.2,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

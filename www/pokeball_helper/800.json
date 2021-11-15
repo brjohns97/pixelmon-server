@@ -1,0 +1,10 @@
+{
+    "name": "Necrozma",
+    "catchRate": 45,
+    "baseSpeed": 79,
+    "weight": 230.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

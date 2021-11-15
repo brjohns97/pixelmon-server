@@ -1,0 +1,26 @@
+which pokemon
+    -ultra beast
+    -base speed
+    -weight
+    -moonstone evolution family?
+    -bug or water type?
+
+status
+    -sleeping or frozen
+    -paralyzed burned or poisoned
+
+percent health?
+
+what is its level compared to your level?
+    -nested ball just cares about its level
+
+what turn is it currently?
+    -quick ball
+    -timer ball
+
+in dark place?
+found via fishing?
+is it in water?
+do you already own this pokemon?
+in the plains biome?
+same species opposite sex?

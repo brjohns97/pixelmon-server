@@ -1,0 +1,10 @@
+{
+    "name": "Magneton",
+    "catchRate": 60,
+    "baseSpeed": 70,
+    "weight": 60.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

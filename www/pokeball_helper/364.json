@@ -1,0 +1,10 @@
+{
+    "name": "Sealeo",
+    "catchRate": 120,
+    "baseSpeed": 45,
+    "weight": 87.6,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

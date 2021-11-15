@@ -1,0 +1,10 @@
+{
+    "name": "Persian",
+    "catchRate": 90,
+    "baseSpeed": 115,
+    "weight": 32.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

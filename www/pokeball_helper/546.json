@@ -1,0 +1,10 @@
+{
+    "name": "Cottonee",
+    "catchRate": 190,
+    "baseSpeed": 66,
+    "weight": 0.6,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

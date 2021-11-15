@@ -1,0 +1,10 @@
+{
+    "name": "Tangrowth",
+    "catchRate": 30,
+    "baseSpeed": 50,
+    "weight": 128.6,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

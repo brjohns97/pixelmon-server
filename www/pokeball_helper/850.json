@@ -1,0 +1,10 @@
+{
+    "name": "Sizzlipede",
+    "catchRate": 190,
+    "baseSpeed": 45,
+    "weight": 1.0,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

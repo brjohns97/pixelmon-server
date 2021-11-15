@@ -1,0 +1,10 @@
+{
+    "name": "Feraligatr",
+    "catchRate": 45,
+    "baseSpeed": 78,
+    "weight": 88.8,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

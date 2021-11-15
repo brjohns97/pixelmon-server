@@ -1,0 +1,10 @@
+{
+    "name": "Mesprit",
+    "catchRate": 3,
+    "baseSpeed": 80,
+    "weight": 0.3,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

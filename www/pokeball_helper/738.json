@@ -1,0 +1,10 @@
+{
+    "name": "Vikavolt",
+    "catchRate": 45,
+    "baseSpeed": 43,
+    "weight": 45.0,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

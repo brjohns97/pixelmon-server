@@ -1,0 +1,10 @@
+{
+    "name": "Caterpie",
+    "catchRate": 255,
+    "baseSpeed": 45,
+    "weight": 2.9,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

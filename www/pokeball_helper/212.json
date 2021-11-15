@@ -1,0 +1,10 @@
+{
+    "name": "Scizor",
+    "catchRate": 25,
+    "baseSpeed": 65,
+    "weight": 118.0,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

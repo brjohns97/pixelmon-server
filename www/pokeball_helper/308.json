@@ -1,0 +1,10 @@
+{
+    "name": "Medicham",
+    "catchRate": 90,
+    "baseSpeed": 80,
+    "weight": 31.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

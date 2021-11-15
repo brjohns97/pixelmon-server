@@ -1,0 +1,10 @@
+{
+    "name": "Petilil",
+    "catchRate": 190,
+    "baseSpeed": 30,
+    "weight": 6.6,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

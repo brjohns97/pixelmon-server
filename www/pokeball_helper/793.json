@@ -1,0 +1,10 @@
+{
+    "name": "Nihilego",
+    "catchRate": 45,
+    "baseSpeed": 103,
+    "weight": 55.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": true
+}

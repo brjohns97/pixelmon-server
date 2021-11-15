@@ -1,0 +1,10 @@
+{
+    "name": "Armaldo",
+    "catchRate": 45,
+    "baseSpeed": 45,
+    "weight": 68.2,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

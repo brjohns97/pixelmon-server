@@ -1,0 +1,10 @@
+{
+    "name": "Volcarona",
+    "catchRate": 15,
+    "baseSpeed": 100,
+    "weight": 46.0,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Carvanha",
+    "catchRate": 225,
+    "baseSpeed": 65,
+    "weight": 20.8,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

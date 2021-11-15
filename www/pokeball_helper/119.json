@@ -1,0 +1,10 @@
+{
+    "name": "Seaking",
+    "catchRate": 60,
+    "baseSpeed": 68,
+    "weight": 39.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

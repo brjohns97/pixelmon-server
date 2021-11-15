@@ -1,0 +1,10 @@
+{
+    "name": "Surskit",
+    "catchRate": 200,
+    "baseSpeed": 65,
+    "weight": 1.7,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": true,
+    "ultraBeast": false
+}

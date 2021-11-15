@@ -1,0 +1,10 @@
+{
+    "name": "Mawile",
+    "catchRate": 45,
+    "baseSpeed": 50,
+    "weight": 11.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

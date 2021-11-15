@@ -1,0 +1,10 @@
+{
+    "name": "Palkia",
+    "catchRate": 3,
+    "baseSpeed": 100,
+    "weight": 336.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Barbaracle",
+    "catchRate": 45,
+    "baseSpeed": 68,
+    "weight": 96.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

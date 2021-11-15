@@ -1,0 +1,10 @@
+{
+    "name": "Eldegoss",
+    "catchRate": 75,
+    "baseSpeed": 60,
+    "weight": 2.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

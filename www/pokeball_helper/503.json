@@ -1,0 +1,10 @@
+{
+    "name": "Samurott",
+    "catchRate": 45,
+    "baseSpeed": 70,
+    "weight": 94.6,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

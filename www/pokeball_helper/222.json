@@ -1,0 +1,10 @@
+{
+    "name": "Corsola",
+    "catchRate": 60,
+    "baseSpeed": 35,
+    "weight": 5.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

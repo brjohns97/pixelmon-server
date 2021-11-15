@@ -1,0 +1,10 @@
+{
+    "name": "Mandibuzz",
+    "catchRate": 60,
+    "baseSpeed": 80,
+    "weight": 39.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

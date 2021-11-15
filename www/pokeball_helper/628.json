@@ -1,0 +1,10 @@
+{
+    "name": "Braviary",
+    "catchRate": 60,
+    "baseSpeed": 80,
+    "weight": 41.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

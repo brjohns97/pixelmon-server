@@ -1,0 +1,10 @@
+{
+    "name": "Goomy",
+    "catchRate": 45,
+    "baseSpeed": 40,
+    "weight": 2.8,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

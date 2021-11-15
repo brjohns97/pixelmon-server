@@ -1,0 +1,10 @@
+{
+    "name": "Furfrou",
+    "catchRate": 160,
+    "baseSpeed": 102,
+    "weight": 28.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

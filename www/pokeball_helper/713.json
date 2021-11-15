@@ -1,0 +1,10 @@
+{
+    "name": "Avalugg",
+    "catchRate": 55,
+    "baseSpeed": 28,
+    "weight": 505.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

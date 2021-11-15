@@ -1,0 +1,10 @@
+{
+    "name": "Dratini",
+    "catchRate": 45,
+    "baseSpeed": 50,
+    "weight": 3.3,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

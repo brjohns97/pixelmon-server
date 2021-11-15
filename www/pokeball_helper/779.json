@@ -1,0 +1,10 @@
+{
+    "name": "Bruxish",
+    "catchRate": 80,
+    "baseSpeed": 92,
+    "weight": 19.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

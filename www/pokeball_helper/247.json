@@ -1,0 +1,10 @@
+{
+    "name": "Pupitar",
+    "catchRate": 45,
+    "baseSpeed": 51,
+    "weight": 152.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

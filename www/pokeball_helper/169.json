@@ -1,0 +1,10 @@
+{
+    "name": "Crobat",
+    "catchRate": 90,
+    "baseSpeed": 130,
+    "weight": 75.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

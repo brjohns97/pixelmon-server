@@ -1,0 +1,10 @@
+{
+    "name": "Gabite",
+    "catchRate": 45,
+    "baseSpeed": 82,
+    "weight": 56.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

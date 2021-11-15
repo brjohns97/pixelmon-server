@@ -1,0 +1,10 @@
+{
+    "name": "Palpitoad",
+    "catchRate": 120,
+    "baseSpeed": 69,
+    "weight": 17.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

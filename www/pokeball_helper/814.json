@@ -1,0 +1,10 @@
+{
+    "name": "Raboot",
+    "catchRate": 45,
+    "baseSpeed": 94,
+    "weight": 9.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

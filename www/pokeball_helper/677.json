@@ -1,0 +1,10 @@
+{
+    "name": "Espurr",
+    "catchRate": 190,
+    "baseSpeed": 68,
+    "weight": 3.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

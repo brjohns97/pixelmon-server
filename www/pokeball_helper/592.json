@@ -1,0 +1,10 @@
+{
+    "name": "Frillish",
+    "catchRate": 190,
+    "baseSpeed": 40,
+    "weight": 33.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

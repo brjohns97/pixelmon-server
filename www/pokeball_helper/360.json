@@ -1,0 +1,10 @@
+{
+    "name": "Wynaut",
+    "catchRate": 125,
+    "baseSpeed": 23,
+    "weight": 14.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

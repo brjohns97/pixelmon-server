@@ -1,0 +1,10 @@
+{
+    "name": "Greedent",
+    "catchRate": 90,
+    "baseSpeed": 20,
+    "weight": 6.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

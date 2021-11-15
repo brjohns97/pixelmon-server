@@ -1,0 +1,10 @@
+{
+    "name": "Misdreavus",
+    "catchRate": 45,
+    "baseSpeed": 85,
+    "weight": 1.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

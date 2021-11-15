@@ -1,0 +1,10 @@
+{
+    "name": "Mantine",
+    "catchRate": 25,
+    "baseSpeed": 70,
+    "weight": 220.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

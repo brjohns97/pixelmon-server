@@ -1,0 +1,10 @@
+{
+    "name": "Binacle",
+    "catchRate": 120,
+    "baseSpeed": 50,
+    "weight": 31.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

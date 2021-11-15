@@ -1,0 +1,10 @@
+{
+    "name": "Vanillish",
+    "catchRate": 120,
+    "baseSpeed": 59,
+    "weight": 41.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

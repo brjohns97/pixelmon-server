@@ -1,0 +1,10 @@
+{
+    "name": "Piloswine",
+    "catchRate": 75,
+    "baseSpeed": 50,
+    "weight": 55.8,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Probopass",
+    "catchRate": 60,
+    "baseSpeed": 40,
+    "weight": 340.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

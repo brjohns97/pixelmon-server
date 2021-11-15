@@ -1,0 +1,10 @@
+{
+    "name": "Barraskewda",
+    "catchRate": 60,
+    "baseSpeed": 136,
+    "weight": 30.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

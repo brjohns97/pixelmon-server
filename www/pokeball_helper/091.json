@@ -1,0 +1,10 @@
+{
+    "name": "Cloyster",
+    "catchRate": 60,
+    "baseSpeed": 70,
+    "weight": 132.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

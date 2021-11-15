@@ -1,0 +1,10 @@
+{
+    "name": "Volcanion",
+    "catchRate": 3,
+    "baseSpeed": 70,
+    "weight": 195.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Mudbray",
+    "catchRate": 190,
+    "baseSpeed": 45,
+    "weight": 110.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

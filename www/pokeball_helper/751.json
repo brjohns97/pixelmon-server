@@ -1,0 +1,10 @@
+{
+    "name": "Dewpider",
+    "catchRate": 200,
+    "baseSpeed": 27,
+    "weight": 4.0,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": true,
+    "ultraBeast": false
+}

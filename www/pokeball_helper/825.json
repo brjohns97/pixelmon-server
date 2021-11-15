@@ -1,0 +1,10 @@
+{
+    "name": "Dottler",
+    "catchRate": 120,
+    "baseSpeed": 30,
+    "weight": 19.5,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

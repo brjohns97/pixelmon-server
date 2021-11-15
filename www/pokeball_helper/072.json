@@ -1,0 +1,10 @@
+{
+    "name": "Tentacool",
+    "catchRate": 190,
+    "baseSpeed": 70,
+    "weight": 45.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

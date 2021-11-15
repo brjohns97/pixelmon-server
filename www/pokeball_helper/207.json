@@ -1,0 +1,10 @@
+{
+    "name": "Gligar",
+    "catchRate": 60,
+    "baseSpeed": 85,
+    "weight": 64.8,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

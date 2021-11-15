@@ -1,0 +1,10 @@
+{
+    "name": "Charizard",
+    "catchRate": 45,
+    "baseSpeed": 100,
+    "weight": 90.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

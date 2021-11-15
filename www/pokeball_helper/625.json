@@ -1,0 +1,10 @@
+{
+    "name": "Bisharp",
+    "catchRate": 45,
+    "baseSpeed": 70,
+    "weight": 70.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

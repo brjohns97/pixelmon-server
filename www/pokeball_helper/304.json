@@ -1,0 +1,10 @@
+{
+    "name": "Aron",
+    "catchRate": 180,
+    "baseSpeed": 30,
+    "weight": 60.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

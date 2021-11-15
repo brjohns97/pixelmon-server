@@ -1,0 +1,10 @@
+{
+    "name": "Snover",
+    "catchRate": 120,
+    "baseSpeed": 40,
+    "weight": 50.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

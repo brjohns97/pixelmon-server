@@ -1,0 +1,10 @@
+{
+    "name": "Swinub",
+    "catchRate": 225,
+    "baseSpeed": 50,
+    "weight": 6.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

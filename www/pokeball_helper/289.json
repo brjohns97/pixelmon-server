@@ -1,0 +1,10 @@
+{
+    "name": "Slaking",
+    "catchRate": 45,
+    "baseSpeed": 100,
+    "weight": 130.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

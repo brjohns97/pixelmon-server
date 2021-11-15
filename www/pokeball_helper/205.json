@@ -1,0 +1,10 @@
+{
+    "name": "Forretress",
+    "catchRate": 75,
+    "baseSpeed": 40,
+    "weight": 125.8,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Croconaw",
+    "catchRate": 45,
+    "baseSpeed": 58,
+    "weight": 25.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

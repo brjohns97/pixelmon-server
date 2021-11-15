@@ -1,0 +1,10 @@
+{
+    "name": "Mudkip",
+    "catchRate": 45,
+    "baseSpeed": 40,
+    "weight": 7.6,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

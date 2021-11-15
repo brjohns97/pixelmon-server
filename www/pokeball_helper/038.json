@@ -1,0 +1,10 @@
+{
+    "name": "Ninetales",
+    "catchRate": 75,
+    "baseSpeed": 100,
+    "weight": 19.9,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

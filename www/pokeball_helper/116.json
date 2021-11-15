@@ -1,0 +1,10 @@
+{
+    "name": "Horsea",
+    "catchRate": 225,
+    "baseSpeed": 60,
+    "weight": 8.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

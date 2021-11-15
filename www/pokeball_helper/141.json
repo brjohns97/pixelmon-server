@@ -1,0 +1,10 @@
+{
+    "name": "Kabutops",
+    "catchRate": 45,
+    "baseSpeed": 80,
+    "weight": 40.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

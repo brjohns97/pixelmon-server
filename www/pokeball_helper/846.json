@@ -1,0 +1,10 @@
+{
+    "name": "Arrokuda",
+    "catchRate": 255,
+    "baseSpeed": 66,
+    "weight": 1.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

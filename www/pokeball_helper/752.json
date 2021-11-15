@@ -1,0 +1,10 @@
+{
+    "name": "Araquanid",
+    "catchRate": 100,
+    "baseSpeed": 42,
+    "weight": 82.0,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": true,
+    "ultraBeast": false
+}

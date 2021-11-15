@@ -1,0 +1,10 @@
+{
+    "name": "Illumise",
+    "catchRate": 150,
+    "baseSpeed": 85,
+    "weight": 17.7,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

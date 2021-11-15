@@ -1,0 +1,10 @@
+{
+    "name": "Steenee",
+    "catchRate": 120,
+    "baseSpeed": 62,
+    "weight": 8.2,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

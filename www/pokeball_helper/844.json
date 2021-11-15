@@ -1,0 +1,10 @@
+{
+    "name": "Sandaconda",
+    "catchRate": 120,
+    "baseSpeed": 71,
+    "weight": 65.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

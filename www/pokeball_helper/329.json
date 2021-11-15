@@ -1,0 +1,10 @@
+{
+    "name": "Vibrava",
+    "catchRate": 120,
+    "baseSpeed": 70,
+    "weight": 15.3,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

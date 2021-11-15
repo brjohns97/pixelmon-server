@@ -1,0 +1,10 @@
+{
+    "name": "Tropius",
+    "catchRate": 200,
+    "baseSpeed": 51,
+    "weight": 100.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

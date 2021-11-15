@@ -1,0 +1,10 @@
+{
+    "name": "Mienshao",
+    "catchRate": 45,
+    "baseSpeed": 105,
+    "weight": 35.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

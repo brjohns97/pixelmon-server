@@ -1,0 +1,10 @@
+{
+    "name": "Stufful",
+    "catchRate": 140,
+    "baseSpeed": 50,
+    "weight": 6.8,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

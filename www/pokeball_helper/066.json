@@ -1,0 +1,10 @@
+{
+    "name": "Machop",
+    "catchRate": 180,
+    "baseSpeed": 35,
+    "weight": 19.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

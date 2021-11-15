@@ -1,0 +1,10 @@
+{
+    "name": "Ribombee",
+    "catchRate": 75,
+    "baseSpeed": 124,
+    "weight": 0.5,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

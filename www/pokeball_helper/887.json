@@ -1,0 +1,10 @@
+{
+    "name": "Dragapult",
+    "catchRate": 45,
+    "baseSpeed": 142,
+    "weight": 50.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

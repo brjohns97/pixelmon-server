@@ -1,0 +1,10 @@
+{
+    "name": "Bouffalant",
+    "catchRate": 45,
+    "baseSpeed": 55,
+    "weight": 94.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

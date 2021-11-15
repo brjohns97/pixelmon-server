@@ -1,0 +1,10 @@
+{
+    "name": "Quagsire",
+    "catchRate": 90,
+    "baseSpeed": 35,
+    "weight": 75.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Chewtle",
+    "catchRate": 255,
+    "baseSpeed": 44,
+    "weight": 8.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

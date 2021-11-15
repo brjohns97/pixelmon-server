@@ -1,0 +1,10 @@
+{
+    "name": "Leavanny",
+    "catchRate": 45,
+    "baseSpeed": 92,
+    "weight": 20.5,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

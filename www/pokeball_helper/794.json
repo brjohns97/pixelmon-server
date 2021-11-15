@@ -1,0 +1,10 @@
+{
+    "name": "Buzzwole",
+    "catchRate": 45,
+    "baseSpeed": 79,
+    "weight": 333.6,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": true
+}

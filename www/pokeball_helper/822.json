@@ -1,0 +1,10 @@
+{
+    "name": "Corvisquire",
+    "catchRate": 120,
+    "baseSpeed": 77,
+    "weight": 16.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

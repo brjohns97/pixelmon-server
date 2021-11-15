@@ -1,0 +1,10 @@
+{
+    "name": "Miltank",
+    "catchRate": 45,
+    "baseSpeed": 100,
+    "weight": 75.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Pinsir",
+    "catchRate": 45,
+    "baseSpeed": 85,
+    "weight": 55.0,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

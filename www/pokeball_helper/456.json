@@ -1,0 +1,10 @@
+{
+    "name": "Finneon",
+    "catchRate": 190,
+    "baseSpeed": 66,
+    "weight": 7.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

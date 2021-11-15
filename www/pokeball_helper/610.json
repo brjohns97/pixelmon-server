@@ -1,0 +1,10 @@
+{
+    "name": "Axew",
+    "catchRate": 75,
+    "baseSpeed": 57,
+    "weight": 18.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

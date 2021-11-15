@@ -1,0 +1,10 @@
+{
+    "name": "Panpour",
+    "catchRate": 190,
+    "baseSpeed": 64,
+    "weight": 13.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Drampa",
+    "catchRate": 70,
+    "baseSpeed": 36,
+    "weight": 185.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

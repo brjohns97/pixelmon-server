@@ -1,0 +1,10 @@
+{
+    "name": "Granbull",
+    "catchRate": 75,
+    "baseSpeed": 45,
+    "weight": 48.7,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

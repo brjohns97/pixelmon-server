@@ -1,0 +1,10 @@
+{
+    "name": "Bagon",
+    "catchRate": 45,
+    "baseSpeed": 50,
+    "weight": 42.1,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

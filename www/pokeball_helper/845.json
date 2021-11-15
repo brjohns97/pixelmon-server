@@ -1,0 +1,10 @@
+{
+    "name": "Cramorant",
+    "catchRate": 45,
+    "baseSpeed": 85,
+    "weight": 18.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

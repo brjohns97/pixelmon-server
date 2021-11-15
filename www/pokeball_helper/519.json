@@ -1,0 +1,10 @@
+{
+    "name": "Pidove",
+    "catchRate": 255,
+    "baseSpeed": 43,
+    "weight": 2.1,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

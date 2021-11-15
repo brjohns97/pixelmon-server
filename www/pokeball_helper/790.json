@@ -1,0 +1,10 @@
+{
+    "name": "Cosmoem",
+    "catchRate": 45,
+    "baseSpeed": 37,
+    "weight": 999.9,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

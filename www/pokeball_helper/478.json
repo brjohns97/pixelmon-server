@@ -1,0 +1,10 @@
+{
+    "name": "Froslass",
+    "catchRate": 75,
+    "baseSpeed": 110,
+    "weight": 26.6,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

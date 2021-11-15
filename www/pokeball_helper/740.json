@@ -1,0 +1,10 @@
+{
+    "name": "Crabominable",
+    "catchRate": 60,
+    "baseSpeed": 43,
+    "weight": 180.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

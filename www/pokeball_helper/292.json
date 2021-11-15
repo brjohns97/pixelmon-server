@@ -1,0 +1,10 @@
+{
+    "name": "Shedinja",
+    "catchRate": 45,
+    "baseSpeed": 40,
+    "weight": 1.2,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

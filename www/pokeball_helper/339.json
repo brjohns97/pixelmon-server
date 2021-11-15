@@ -1,0 +1,10 @@
+{
+    "name": "Barboach",
+    "catchRate": 190,
+    "baseSpeed": 60,
+    "weight": 1.9,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

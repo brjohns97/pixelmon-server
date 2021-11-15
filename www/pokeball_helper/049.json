@@ -1,0 +1,10 @@
+{
+    "name": "Venomoth",
+    "catchRate": 75,
+    "baseSpeed": 90,
+    "weight": 12.5,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

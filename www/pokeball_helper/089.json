@@ -1,0 +1,10 @@
+{
+    "name": "Muk",
+    "catchRate": 75,
+    "baseSpeed": 50,
+    "weight": 30.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

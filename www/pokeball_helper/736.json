@@ -1,0 +1,10 @@
+{
+    "name": "Grubbin",
+    "catchRate": 255,
+    "baseSpeed": 46,
+    "weight": 4.4,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Shuckle",
+    "catchRate": 190,
+    "baseSpeed": 5,
+    "weight": 20.5,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

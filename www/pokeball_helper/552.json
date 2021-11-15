@@ -1,0 +1,10 @@
+{
+    "name": "Krokorok",
+    "catchRate": 90,
+    "baseSpeed": 74,
+    "weight": 33.4,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

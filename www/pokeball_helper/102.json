@@ -1,0 +1,10 @@
+{
+    "name": "Exeggcute",
+    "catchRate": 90,
+    "baseSpeed": 40,
+    "weight": 2.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

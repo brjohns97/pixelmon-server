@@ -1,0 +1,10 @@
+{
+    "name": "MrMime",
+    "catchRate": 45,
+    "baseSpeed": 90,
+    "weight": 54.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

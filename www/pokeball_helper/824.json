@@ -1,0 +1,10 @@
+{
+    "name": "Blipbug",
+    "catchRate": 255,
+    "baseSpeed": 45,
+    "weight": 8.0,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

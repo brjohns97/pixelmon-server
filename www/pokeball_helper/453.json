@@ -1,0 +1,10 @@
+{
+    "name": "Croagunk",
+    "catchRate": 140,
+    "baseSpeed": 50,
+    "weight": 23.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

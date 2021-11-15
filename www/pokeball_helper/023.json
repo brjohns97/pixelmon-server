@@ -1,0 +1,10 @@
+{
+    "name": "Ekans",
+    "catchRate": 255,
+    "baseSpeed": 55,
+    "weight": 6.9,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

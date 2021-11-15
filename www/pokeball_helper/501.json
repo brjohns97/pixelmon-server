@@ -1,0 +1,10 @@
+{
+    "name": "Oshawott",
+    "catchRate": 45,
+    "baseSpeed": 45,
+    "weight": 5.9,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

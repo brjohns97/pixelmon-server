@@ -1,0 +1,10 @@
+{
+    "name": "Remoraid",
+    "catchRate": 190,
+    "baseSpeed": 65,
+    "weight": 12.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

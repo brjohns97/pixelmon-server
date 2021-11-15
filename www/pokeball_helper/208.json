@@ -1,0 +1,10 @@
+{
+    "name": "Steelix",
+    "catchRate": 25,
+    "baseSpeed": 30,
+    "weight": 400.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

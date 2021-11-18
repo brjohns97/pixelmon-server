@@ -1,0 +1,10 @@
+{
+    "name": "Musharna",
+    "catchRate": 75,
+    "baseSpeed": 29,
+    "weight": 60.5,
+    "usesMoonStone": true,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

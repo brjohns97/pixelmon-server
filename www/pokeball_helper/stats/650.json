@@ -1,0 +1,10 @@
+{
+    "name": "Chespin",
+    "catchRate": 45,
+    "baseSpeed": 38,
+    "weight": 9.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

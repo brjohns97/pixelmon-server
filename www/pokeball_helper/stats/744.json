@@ -1,0 +1,10 @@
+{
+    "name": "Rockruff",
+    "catchRate": 190,
+    "baseSpeed": 60,
+    "weight": 9.2,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

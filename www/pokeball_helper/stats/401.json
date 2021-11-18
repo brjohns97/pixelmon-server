@@ -1,0 +1,10 @@
+{
+    "name": "Kricketot",
+    "catchRate": 255,
+    "baseSpeed": 25,
+    "weight": 2.2,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

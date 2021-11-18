@@ -1,0 +1,10 @@
+{
+    "name": "Floatzel",
+    "catchRate": 75,
+    "baseSpeed": 115,
+    "weight": 33.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

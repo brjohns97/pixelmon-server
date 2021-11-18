@@ -1,0 +1,10 @@
+{
+    "name": "Cascoon",
+    "catchRate": 120,
+    "baseSpeed": 15,
+    "weight": 11.5,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

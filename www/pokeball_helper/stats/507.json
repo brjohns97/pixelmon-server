@@ -1,0 +1,10 @@
+{
+    "name": "Herdier",
+    "catchRate": 120,
+    "baseSpeed": 60,
+    "weight": 14.7,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Vanilluxe",
+    "catchRate": 45,
+    "baseSpeed": 79,
+    "weight": 57.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

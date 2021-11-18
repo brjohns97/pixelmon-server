@@ -1,0 +1,10 @@
+{
+    "name": "Larvitar",
+    "catchRate": 45,
+    "baseSpeed": 41,
+    "weight": 72.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

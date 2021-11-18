@@ -1,0 +1,10 @@
+{
+    "name": "Keldeo",
+    "catchRate": 3,
+    "baseSpeed": 108,
+    "weight": 48.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Nidorino",
+    "catchRate": 120,
+    "baseSpeed": 65,
+    "weight": 19.5,
+    "usesMoonStone": true,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

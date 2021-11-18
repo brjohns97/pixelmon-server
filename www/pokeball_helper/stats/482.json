@@ -1,0 +1,10 @@
+{
+    "name": "Azelf",
+    "catchRate": 3,
+    "baseSpeed": 115,
+    "weight": 0.3,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

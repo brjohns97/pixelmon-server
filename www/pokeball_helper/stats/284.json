@@ -1,0 +1,10 @@
+{
+    "name": "Masquerain",
+    "catchRate": 75,
+    "baseSpeed": 80,
+    "weight": 3.6,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Shaymin",
+    "catchRate": 45,
+    "baseSpeed": 100,
+    "weight": 2.1,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

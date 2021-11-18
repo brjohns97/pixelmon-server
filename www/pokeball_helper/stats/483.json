@@ -1,0 +1,10 @@
+{
+    "name": "Dialga",
+    "catchRate": 3,
+    "baseSpeed": 90,
+    "weight": 683.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

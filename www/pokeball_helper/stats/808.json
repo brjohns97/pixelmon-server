@@ -1,0 +1,10 @@
+{
+    "name": "Meltan",
+    "catchRate": 3,
+    "baseSpeed": 34,
+    "weight": 8.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

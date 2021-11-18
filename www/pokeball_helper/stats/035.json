@@ -1,0 +1,10 @@
+{
+    "name": "Clefairy",
+    "catchRate": 150,
+    "baseSpeed": 35,
+    "weight": 7.5,
+    "usesMoonStone": true,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

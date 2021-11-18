@@ -1,0 +1,10 @@
+{
+    "name": "Golisopod",
+    "catchRate": 45,
+    "baseSpeed": 40,
+    "weight": 108.0,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": true,
+    "ultraBeast": false
+}

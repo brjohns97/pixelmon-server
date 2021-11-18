@@ -1,0 +1,10 @@
+{
+    "name": "Lickilicky",
+    "catchRate": 30,
+    "baseSpeed": 50,
+    "weight": 140.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

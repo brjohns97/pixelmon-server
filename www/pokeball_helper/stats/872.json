@@ -1,0 +1,10 @@
+{
+    "name": "Snom",
+    "catchRate": 190,
+    "baseSpeed": 20,
+    "weight": 3.8,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

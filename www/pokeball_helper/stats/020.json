@@ -1,0 +1,10 @@
+{
+    "name": "Raticate",
+    "catchRate": 127,
+    "baseSpeed": 97,
+    "weight": 18.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

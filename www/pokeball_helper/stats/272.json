@@ -1,0 +1,10 @@
+{
+    "name": "Ludicolo",
+    "catchRate": 45,
+    "baseSpeed": 70,
+    "weight": 55.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

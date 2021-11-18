@@ -1,0 +1,10 @@
+{
+    "name": "Bastiodon",
+    "catchRate": 45,
+    "baseSpeed": 30,
+    "weight": 149.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

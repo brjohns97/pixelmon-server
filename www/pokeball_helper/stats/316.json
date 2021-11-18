@@ -1,0 +1,10 @@
+{
+    "name": "Gulpin",
+    "catchRate": 225,
+    "baseSpeed": 40,
+    "weight": 10.3,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

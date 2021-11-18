@@ -1,0 +1,10 @@
+{
+    "name": "Garchomp",
+    "catchRate": 45,
+    "baseSpeed": 102,
+    "weight": 95.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

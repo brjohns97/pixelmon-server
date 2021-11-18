@@ -45,7 +45,7 @@ include 'navbar.php'
             echo '<tr>';
             echo '<td>'.$user['name'].'</td>';
             echo '<td>'.$user['uuid'].'</td>';
-            echo '<td>'.$user['expiresOn'].'</td>';
+            echo '<td>'.date('F j, Y \a\\t g:i:s A', strtotime($user['expiresOn'])).'</td>';
             echo '</tr>';  
           }
         ?>

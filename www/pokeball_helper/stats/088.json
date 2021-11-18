@@ -1,0 +1,10 @@
+{
+    "name": "Grimer",
+    "catchRate": 190,
+    "baseSpeed": 25,
+    "weight": 30.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Weepinbell",
+    "catchRate": 120,
+    "baseSpeed": 55,
+    "weight": 6.4,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Pancham",
+    "catchRate": 220,
+    "baseSpeed": 43,
+    "weight": 8.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

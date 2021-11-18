@@ -1,0 +1,10 @@
+{
+    "name": "Spritzee",
+    "catchRate": 200,
+    "baseSpeed": 23,
+    "weight": 0.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Sentret",
+    "catchRate": 255,
+    "baseSpeed": 20,
+    "weight": 6.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

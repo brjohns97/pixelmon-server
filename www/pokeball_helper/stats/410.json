@@ -1,0 +1,10 @@
+{
+    "name": "Shieldon",
+    "catchRate": 45,
+    "baseSpeed": 30,
+    "weight": 57.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

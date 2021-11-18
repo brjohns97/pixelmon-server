@@ -1,0 +1,10 @@
+{
+    "name": "Politoed",
+    "catchRate": 45,
+    "baseSpeed": 70,
+    "weight": 33.9,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

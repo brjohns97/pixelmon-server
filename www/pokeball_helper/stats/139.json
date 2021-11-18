@@ -1,0 +1,10 @@
+{
+    "name": "Omastar",
+    "catchRate": 45,
+    "baseSpeed": 55,
+    "weight": 35.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

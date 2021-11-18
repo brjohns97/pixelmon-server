@@ -1,0 +1,10 @@
+{
+    "name": "Marshtomp",
+    "catchRate": 45,
+    "baseSpeed": 50,
+    "weight": 28.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

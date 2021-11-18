@@ -1,0 +1,10 @@
+{
+    "name": "Stantler",
+    "catchRate": 45,
+    "baseSpeed": 85,
+    "weight": 71.2,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

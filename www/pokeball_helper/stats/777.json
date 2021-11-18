@@ -1,0 +1,10 @@
+{
+    "name": "Togedemaru",
+    "catchRate": 180,
+    "baseSpeed": 96,
+    "weight": 3.3,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

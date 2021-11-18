@@ -1,0 +1,10 @@
+{
+    "name": "Litleo",
+    "catchRate": 220,
+    "baseSpeed": 72,
+    "weight": 13.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

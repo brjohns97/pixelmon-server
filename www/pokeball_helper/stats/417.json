@@ -1,0 +1,10 @@
+{
+    "name": "Pachirisu",
+    "catchRate": 200,
+    "baseSpeed": 95,
+    "weight": 3.9,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

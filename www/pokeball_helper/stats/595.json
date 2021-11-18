@@ -1,0 +1,10 @@
+{
+    "name": "Joltik",
+    "catchRate": 190,
+    "baseSpeed": 65,
+    "weight": 0.6,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

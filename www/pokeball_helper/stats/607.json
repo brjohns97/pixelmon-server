@@ -1,0 +1,10 @@
+{
+    "name": "Litwick",
+    "catchRate": 190,
+    "baseSpeed": 20,
+    "weight": 3.1,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

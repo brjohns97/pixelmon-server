@@ -1,0 +1,10 @@
+{
+    "name": "Igglybuff",
+    "catchRate": 170,
+    "baseSpeed": 15,
+    "weight": 1.0,
+    "usesMoonStone": true,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

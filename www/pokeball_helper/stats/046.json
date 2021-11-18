@@ -1,0 +1,10 @@
+{
+    "name": "Paras",
+    "catchRate": 190,
+    "baseSpeed": 25,
+    "weight": 5.4,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Suicune",
+    "catchRate": 3,
+    "baseSpeed": 85,
+    "weight": 187.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

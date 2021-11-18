@@ -1,0 +1,10 @@
+{
+    "name": "Milcery",
+    "catchRate": 200,
+    "baseSpeed": 34,
+    "weight": 0.3,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

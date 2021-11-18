@@ -1,0 +1,10 @@
+{
+    "name": "Kabuto",
+    "catchRate": 45,
+    "baseSpeed": 55,
+    "weight": 11.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

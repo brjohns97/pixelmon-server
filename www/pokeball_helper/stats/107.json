@@ -1,0 +1,10 @@
+{
+    "name": "Hitmonchan",
+    "catchRate": 45,
+    "baseSpeed": 76,
+    "weight": 50.2,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

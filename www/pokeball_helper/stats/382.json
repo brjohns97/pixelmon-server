@@ -1,0 +1,10 @@
+{
+    "name": "Kyogre",
+    "catchRate": 5,
+    "baseSpeed": 90,
+    "weight": 352.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

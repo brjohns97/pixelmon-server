@@ -1,0 +1,10 @@
+{
+    "name": "Scyther",
+    "catchRate": 45,
+    "baseSpeed": 105,
+    "weight": 56.0,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

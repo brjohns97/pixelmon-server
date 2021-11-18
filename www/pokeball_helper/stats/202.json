@@ -1,0 +1,10 @@
+{
+    "name": "Wobbuffet",
+    "catchRate": 45,
+    "baseSpeed": 33,
+    "weight": 28.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

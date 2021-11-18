@@ -1,0 +1,10 @@
+{
+    "name": "Tepig",
+    "catchRate": 45,
+    "baseSpeed": 45,
+    "weight": 9.9,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

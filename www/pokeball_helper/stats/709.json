@@ -1,0 +1,10 @@
+{
+    "name": "Trevenant",
+    "catchRate": 60,
+    "baseSpeed": 56,
+    "weight": 71.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

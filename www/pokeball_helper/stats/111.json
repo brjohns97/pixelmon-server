@@ -1,0 +1,10 @@
+{
+    "name": "Rhyhorn",
+    "catchRate": 120,
+    "baseSpeed": 25,
+    "weight": 115.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

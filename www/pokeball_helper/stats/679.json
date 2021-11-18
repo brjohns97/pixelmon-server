@@ -1,0 +1,10 @@
+{
+    "name": "Honedge",
+    "catchRate": 180,
+    "baseSpeed": 28,
+    "weight": 2.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Slowbro",
+    "catchRate": 75,
+    "baseSpeed": 30,
+    "weight": 78.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

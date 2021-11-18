@@ -1,0 +1,10 @@
+{
+    "name": "Dracovish",
+    "catchRate": 45,
+    "baseSpeed": 75,
+    "weight": 215.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

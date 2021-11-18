@@ -1,0 +1,10 @@
+{
+    "name": "Vespiquen",
+    "catchRate": 45,
+    "baseSpeed": 40,
+    "weight": 38.5,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

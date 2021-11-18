@@ -1,0 +1,10 @@
+{
+    "name": "Carkol",
+    "catchRate": 120,
+    "baseSpeed": 50,
+    "weight": 78.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

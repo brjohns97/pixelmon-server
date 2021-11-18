@@ -1,0 +1,10 @@
+{
+    "name": "Whiscash",
+    "catchRate": 75,
+    "baseSpeed": 60,
+    "weight": 23.6,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

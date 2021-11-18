@@ -1,0 +1,10 @@
+{
+    "name": "Crustle",
+    "catchRate": 75,
+    "baseSpeed": 45,
+    "weight": 200.0,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Dragalge",
+    "catchRate": 55,
+    "baseSpeed": 44,
+    "weight": 81.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

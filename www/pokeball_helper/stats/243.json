@@ -1,0 +1,10 @@
+{
+    "name": "Raikou",
+    "catchRate": 3,
+    "baseSpeed": 115,
+    "weight": 178.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

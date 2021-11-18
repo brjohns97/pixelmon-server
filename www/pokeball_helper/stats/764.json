@@ -1,0 +1,10 @@
+{
+    "name": "Comfey",
+    "catchRate": 60,
+    "baseSpeed": 100,
+    "weight": 0.3,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

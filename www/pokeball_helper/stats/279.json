@@ -1,0 +1,10 @@
+{
+    "name": "Pelipper",
+    "catchRate": 45,
+    "baseSpeed": 65,
+    "weight": 28.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

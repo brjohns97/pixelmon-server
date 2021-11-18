@@ -1,0 +1,10 @@
+{
+    "name": "Tyrunt",
+    "catchRate": 45,
+    "baseSpeed": 48,
+    "weight": 26.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

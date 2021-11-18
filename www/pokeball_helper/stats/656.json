@@ -1,0 +1,10 @@
+{
+    "name": "Froakie",
+    "catchRate": 45,
+    "baseSpeed": 71,
+    "weight": 7.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

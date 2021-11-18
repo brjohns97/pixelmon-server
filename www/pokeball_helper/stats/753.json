@@ -1,0 +1,10 @@
+{
+    "name": "Fomantis",
+    "catchRate": 190,
+    "baseSpeed": 35,
+    "weight": 1.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

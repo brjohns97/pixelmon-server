@@ -1,0 +1,10 @@
+{
+    "name": "Jigglypuff",
+    "catchRate": 170,
+    "baseSpeed": 20,
+    "weight": 5.5,
+    "usesMoonStone": true,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

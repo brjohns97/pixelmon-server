@@ -1,0 +1,10 @@
+{
+    "name": "Girafarig",
+    "catchRate": 60,
+    "baseSpeed": 85,
+    "weight": 41.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

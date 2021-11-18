@@ -1,0 +1,10 @@
+{
+    "name": "Shellos",
+    "catchRate": 190,
+    "baseSpeed": 34,
+    "weight": 6.3,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

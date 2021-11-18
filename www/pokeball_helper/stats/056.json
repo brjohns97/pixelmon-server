@@ -1,0 +1,10 @@
+{
+    "name": "Mankey",
+    "catchRate": 190,
+    "baseSpeed": 70,
+    "weight": 28.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

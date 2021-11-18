@@ -1,0 +1,10 @@
+{
+    "name": "Sunflora",
+    "catchRate": 120,
+    "baseSpeed": 30,
+    "weight": 8.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

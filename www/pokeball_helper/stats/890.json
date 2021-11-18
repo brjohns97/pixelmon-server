@@ -1,0 +1,10 @@
+{
+    "name": "Eternatus",
+    "catchRate": 10,
+    "baseSpeed": 130,
+    "weight": 950.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

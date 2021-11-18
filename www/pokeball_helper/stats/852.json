@@ -1,0 +1,10 @@
+{
+    "name": "Clobbopus",
+    "catchRate": 180,
+    "baseSpeed": 32,
+    "weight": 4.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

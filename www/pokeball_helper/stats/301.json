@@ -1,0 +1,10 @@
+{
+    "name": "Delcatty",
+    "catchRate": 60,
+    "baseSpeed": 90,
+    "weight": 32.6,
+    "usesMoonStone": true,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

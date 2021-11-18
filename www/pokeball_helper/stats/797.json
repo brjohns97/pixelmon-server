@@ -1,0 +1,10 @@
+{
+    "name": "Celesteela",
+    "catchRate": 45,
+    "baseSpeed": 61,
+    "weight": 999.9,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": true
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Magnezone",
+    "catchRate": 30,
+    "baseSpeed": 60,
+    "weight": 180.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

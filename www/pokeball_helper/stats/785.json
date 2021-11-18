@@ -1,0 +1,10 @@
+{
+    "name": "TapuKoko",
+    "catchRate": 3,
+    "baseSpeed": 130,
+    "weight": 20.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

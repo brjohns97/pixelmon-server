@@ -1,0 +1,10 @@
+{
+    "name": "Goodra",
+    "catchRate": 45,
+    "baseSpeed": 80,
+    "weight": 150.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

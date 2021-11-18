@@ -1,0 +1,10 @@
+{
+    "name": "Trubbish",
+    "catchRate": 190,
+    "baseSpeed": 65,
+    "weight": 31.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

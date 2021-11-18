@@ -1,0 +1,10 @@
+{
+    "name": "Genesect",
+    "catchRate": 3,
+    "baseSpeed": 99,
+    "weight": 82.5,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

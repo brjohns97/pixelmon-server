@@ -1,0 +1,10 @@
+{
+    "name": "Wormadam",
+    "catchRate": 45,
+    "baseSpeed": 36,
+    "weight": 6.5,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

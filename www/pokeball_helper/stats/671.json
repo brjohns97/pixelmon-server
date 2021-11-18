@@ -1,0 +1,10 @@
+{
+    "name": "Florges",
+    "catchRate": 45,
+    "baseSpeed": 75,
+    "weight": 10.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

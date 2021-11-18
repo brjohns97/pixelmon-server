@@ -1,0 +1,10 @@
+{
+    "name": "Boltund",
+    "catchRate": 45,
+    "baseSpeed": 121,
+    "weight": 34.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

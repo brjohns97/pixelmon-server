@@ -1,0 +1,10 @@
+{
+    "name": "Wurmple",
+    "catchRate": 255,
+    "baseSpeed": 20,
+    "weight": 3.6,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

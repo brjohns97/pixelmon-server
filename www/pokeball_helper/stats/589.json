@@ -1,0 +1,10 @@
+{
+    "name": "Escavalier",
+    "catchRate": 75,
+    "baseSpeed": 20,
+    "weight": 33.0,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Torterra",
+    "catchRate": 45,
+    "baseSpeed": 56,
+    "weight": 310.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

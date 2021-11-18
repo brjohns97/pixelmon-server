@@ -446,6 +446,12 @@
     },
     "done": true
   },
+  "pixelmon:pokedex/pokedex_percent_25": {
+    "criteria": {
+      "pokedex_percent_25": "2021-11-17 23:20:34 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-11-05 22:28:00 -0500"
@@ -654,7 +660,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "shulker": "2021-11-11 21:30:36 -0600"
+      "shulker": "2021-11-11 21:30:36 -0600",
+      "zombie_villager": "2021-11-16 21:39:43 -0600"
     },
     "done": false
   },
@@ -697,6 +704,12 @@
   "minecraft:recipes/building_blocks/green_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-11-15 01:09:30 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_fighting_10": {
+    "criteria": {
+      "capture_fighting_10": "2021-11-15 20:52:29 -0600"
     },
     "done": true
   },
@@ -769,6 +782,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-11-15 01:09:30 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_poison_10": {
+    "criteria": {
+      "capture_poison_10": "2021-11-18 14:42:26 -0600"
     },
     "done": true
   },
@@ -853,6 +872,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2021-11-07 13:41:17 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:balls/heavy_ball_capture": {
+    "criteria": {
+      "heavy_ball_capture": "2021-11-15 15:48:53 -0600"
     },
     "done": true
   },
@@ -1079,6 +1104,12 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/zapdos_capture_trigger": {
+    "criteria": {
+      "zapdos_capture": "2021-11-15 19:05:56 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2021-11-06 02:08:49 -0500"
@@ -1106,6 +1137,12 @@
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2021-11-07 01:35:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2021-11-17 02:01:52 -0600"
     },
     "done": true
   },
@@ -1397,6 +1434,12 @@
   "minecraft:recipes/building_blocks/pillar_quartz_block": {
     "criteria": {
       "has_quartz_block": "2021-11-05 23:53:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2021-11-17 02:01:52 -0600"
     },
     "done": true
   },
@@ -1764,6 +1807,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_chicken": "2021-11-18 02:02:18 -0600",
+      "bred_sheep": "2021-11-18 14:17:23 -0600"
+    },
+    "done": false
+  },
   "pixelmon:recipes/machines/fossil_cleaner": {
     "criteria": {
       "has_aluminium_plate": "2021-11-05 22:58:34 -0500"
@@ -1887,6 +1937,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2021-11-05 22:18:17 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_ghost_10": {
+    "criteria": {
+      "capture_ghost_10": "2021-11-17 22:21:04 -0600"
     },
     "done": true
   },
@@ -2034,6 +2090,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2021-11-17 02:01:52 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2021-11-07 13:41:17 -0600"
@@ -2118,6 +2180,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2021-11-13 20:31:14 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_electric_10": {
+    "criteria": {
+      "capture_electric_10": "2021-11-15 22:01:18 -0600"
     },
     "done": true
   },
@@ -2215,6 +2283,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-11-07 15:24:39 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/green_folding_chair": {
+    "criteria": {
+      "has_wool": "2021-11-17 02:01:52 -0600"
     },
     "done": true
   },
@@ -2629,6 +2703,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_chicken": "2021-11-18 02:02:18 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2021-11-06 01:32:36 -0500"
@@ -2686,6 +2766,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2021-11-05 22:18:17 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_dark_10": {
+    "criteria": {
+      "capture_dark_10": "2021-11-16 23:53:11 -0600"
     },
     "done": true
   },

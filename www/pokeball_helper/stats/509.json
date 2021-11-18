@@ -1,0 +1,10 @@
+{
+    "name": "Purrloin",
+    "catchRate": 255,
+    "baseSpeed": 66,
+    "weight": 10.1,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Beautifly",
+    "catchRate": 45,
+    "baseSpeed": 65,
+    "weight": 28.4,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

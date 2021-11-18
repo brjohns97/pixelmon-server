@@ -1,0 +1,10 @@
+{
+    "name": "Nosepass",
+    "catchRate": 255,
+    "baseSpeed": 30,
+    "weight": 97.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Bronzor",
+    "catchRate": 255,
+    "baseSpeed": 23,
+    "weight": 60.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

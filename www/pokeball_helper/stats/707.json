@@ -1,0 +1,10 @@
+{
+    "name": "Klefki",
+    "catchRate": 75,
+    "baseSpeed": 75,
+    "weight": 3.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

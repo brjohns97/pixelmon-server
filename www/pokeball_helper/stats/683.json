@@ -1,0 +1,10 @@
+{
+    "name": "Aromatisse",
+    "catchRate": 140,
+    "baseSpeed": 29,
+    "weight": 15.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

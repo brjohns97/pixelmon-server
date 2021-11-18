@@ -1,0 +1,10 @@
+{
+    "name": "Wingull",
+    "catchRate": 190,
+    "baseSpeed": 85,
+    "weight": 9.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

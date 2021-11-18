@@ -1,0 +1,10 @@
+{
+    "name": "Azumarill",
+    "catchRate": 75,
+    "baseSpeed": 50,
+    "weight": 28.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

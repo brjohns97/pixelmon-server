@@ -1,0 +1,10 @@
+{
+    "name": "Clamperl",
+    "catchRate": 255,
+    "baseSpeed": 32,
+    "weight": 52.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

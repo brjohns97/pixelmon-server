@@ -1,0 +1,10 @@
+{
+    "name": "Blaziken",
+    "catchRate": 45,
+    "baseSpeed": 80,
+    "weight": 52.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

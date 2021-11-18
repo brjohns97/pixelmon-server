@@ -1,0 +1,10 @@
+{
+    "name": "Golduck",
+    "catchRate": 75,
+    "baseSpeed": 85,
+    "weight": 61.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

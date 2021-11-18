@@ -1,0 +1,10 @@
+{
+    "name": "Hatterene",
+    "catchRate": 45,
+    "baseSpeed": 29,
+    "weight": 5.1,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

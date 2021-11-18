@@ -1,0 +1,10 @@
+{
+    "name": "Foongus",
+    "catchRate": 190,
+    "baseSpeed": 15,
+    "weight": 1.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Yanmega",
+    "catchRate": 30,
+    "baseSpeed": 95,
+    "weight": 51.5,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

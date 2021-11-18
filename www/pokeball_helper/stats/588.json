@@ -1,0 +1,10 @@
+{
+    "name": "Karrablast",
+    "catchRate": 200,
+    "baseSpeed": 60,
+    "weight": 5.9,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

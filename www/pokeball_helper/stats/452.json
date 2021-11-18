@@ -1,0 +1,10 @@
+{
+    "name": "Drapion",
+    "catchRate": 45,
+    "baseSpeed": 95,
+    "weight": 61.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

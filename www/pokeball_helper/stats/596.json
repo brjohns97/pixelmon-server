@@ -1,0 +1,10 @@
+{
+    "name": "Galvantula",
+    "catchRate": 75,
+    "baseSpeed": 108,
+    "weight": 14.3,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

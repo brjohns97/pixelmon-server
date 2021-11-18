@@ -1,0 +1,10 @@
+{
+    "name": "Rattata",
+    "catchRate": 255,
+    "baseSpeed": 72,
+    "weight": 3.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Chatot",
+    "catchRate": 30,
+    "baseSpeed": 91,
+    "weight": 1.9,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

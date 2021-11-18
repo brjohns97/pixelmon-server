@@ -1,0 +1,10 @@
+{
+    "name": "TapuFini",
+    "catchRate": 3,
+    "baseSpeed": 85,
+    "weight": 21.2,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

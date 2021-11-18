@@ -1,0 +1,10 @@
+{
+    "name": "Morpeko",
+    "catchRate": 180,
+    "baseSpeed": 97,
+    "weight": 3.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

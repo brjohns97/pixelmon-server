@@ -1,0 +1,10 @@
+{
+    "name": "Meganium",
+    "catchRate": 45,
+    "baseSpeed": 80,
+    "weight": 100.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

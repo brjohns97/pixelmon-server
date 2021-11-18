@@ -1,0 +1,10 @@
+{
+    "name": "Quilladin",
+    "catchRate": 45,
+    "baseSpeed": 57,
+    "weight": 29.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

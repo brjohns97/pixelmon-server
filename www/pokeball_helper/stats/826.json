@@ -1,0 +1,10 @@
+{
+    "name": "Orbeetle",
+    "catchRate": 45,
+    "baseSpeed": 90,
+    "weight": 40.8,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

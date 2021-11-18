@@ -1,0 +1,10 @@
+{
+    "name": "Piplup",
+    "catchRate": 45,
+    "baseSpeed": 40,
+    "weight": 5.2,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

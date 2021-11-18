@@ -1,0 +1,10 @@
+{
+    "name": "Luxray",
+    "catchRate": 45,
+    "baseSpeed": 70,
+    "weight": 42.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

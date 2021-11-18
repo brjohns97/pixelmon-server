@@ -1,0 +1,10 @@
+{
+    "name": "Rhyperior",
+    "catchRate": 30,
+    "baseSpeed": 40,
+    "weight": 282.8,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Slowpoke",
+    "catchRate": 190,
+    "baseSpeed": 15,
+    "weight": 36.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Hypno",
+    "catchRate": 75,
+    "baseSpeed": 67,
+    "weight": 75.6,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

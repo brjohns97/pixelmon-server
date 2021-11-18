@@ -1,0 +1,10 @@
+{
+    "name": "Chingling",
+    "catchRate": 120,
+    "baseSpeed": 45,
+    "weight": 0.6,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

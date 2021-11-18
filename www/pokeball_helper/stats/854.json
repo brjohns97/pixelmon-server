@@ -1,0 +1,10 @@
+{
+    "name": "Sinistea",
+    "catchRate": 120,
+    "baseSpeed": 50,
+    "weight": 0.2,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

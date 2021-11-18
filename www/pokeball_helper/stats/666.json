@@ -1,0 +1,10 @@
+{
+    "name": "Vivillon",
+    "catchRate": 45,
+    "baseSpeed": 89,
+    "weight": 17.0,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

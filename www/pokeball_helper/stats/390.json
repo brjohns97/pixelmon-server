@@ -1,0 +1,10 @@
+{
+    "name": "Chimchar",
+    "catchRate": 45,
+    "baseSpeed": 61,
+    "weight": 6.2,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Kommo-o",
+    "catchRate": 45,
+    "baseSpeed": 85,
+    "weight": 78.2,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

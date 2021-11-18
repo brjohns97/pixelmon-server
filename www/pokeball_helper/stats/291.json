@@ -1,0 +1,10 @@
+{
+    "name": "Ninjask",
+    "catchRate": 120,
+    "baseSpeed": 160,
+    "weight": 12.0,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

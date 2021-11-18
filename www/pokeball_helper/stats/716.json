@@ -1,0 +1,10 @@
+{
+    "name": "Xerneas",
+    "catchRate": 45,
+    "baseSpeed": 99,
+    "weight": 215.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

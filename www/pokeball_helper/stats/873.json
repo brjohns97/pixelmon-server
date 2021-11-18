@@ -1,0 +1,10 @@
+{
+    "name": "Frosmoth",
+    "catchRate": 75,
+    "baseSpeed": 65,
+    "weight": 42.0,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

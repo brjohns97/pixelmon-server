@@ -1,0 +1,10 @@
+{
+    "name": "Cyndaquil",
+    "catchRate": 45,
+    "baseSpeed": 65,
+    "weight": 7.9,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

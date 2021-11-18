@@ -1,0 +1,10 @@
+{
+    "name": "Beartic",
+    "catchRate": 60,
+    "baseSpeed": 50,
+    "weight": 260.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

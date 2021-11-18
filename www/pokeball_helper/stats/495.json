@@ -1,0 +1,10 @@
+{
+    "name": "Snivy",
+    "catchRate": 45,
+    "baseSpeed": 63,
+    "weight": 8.1,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

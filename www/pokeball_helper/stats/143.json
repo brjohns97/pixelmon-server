@@ -1,0 +1,10 @@
+{
+    "name": "Snorlax",
+    "catchRate": 25,
+    "baseSpeed": 30,
+    "weight": 460.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

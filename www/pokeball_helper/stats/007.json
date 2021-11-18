@@ -1,0 +1,10 @@
+{
+    "name": "Squirtle",
+    "catchRate": 45,
+    "baseSpeed": 43,
+    "weight": 9.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

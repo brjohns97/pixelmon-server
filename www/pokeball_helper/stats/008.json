@@ -1,0 +1,10 @@
+{
+    "name": "Wartortle",
+    "catchRate": 45,
+    "baseSpeed": 58,
+    "weight": 22.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

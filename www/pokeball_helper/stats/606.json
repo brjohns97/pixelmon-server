@@ -1,0 +1,10 @@
+{
+    "name": "Beheeyem",
+    "catchRate": 90,
+    "baseSpeed": 40,
+    "weight": 34.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

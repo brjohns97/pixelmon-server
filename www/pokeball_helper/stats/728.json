@@ -1,0 +1,10 @@
+{
+    "name": "Popplio",
+    "catchRate": 45,
+    "baseSpeed": 40,
+    "weight": 7.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

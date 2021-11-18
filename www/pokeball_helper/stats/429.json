@@ -1,0 +1,10 @@
+{
+    "name": "Mismagius",
+    "catchRate": 45,
+    "baseSpeed": 105,
+    "weight": 4.4,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

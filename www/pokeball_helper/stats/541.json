@@ -1,0 +1,10 @@
+{
+    "name": "Swadloon",
+    "catchRate": 120,
+    "baseSpeed": 42,
+    "weight": 7.3,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Spiritomb",
+    "catchRate": 100,
+    "baseSpeed": 35,
+    "weight": 108.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

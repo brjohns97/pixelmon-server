@@ -1,0 +1,10 @@
+{
+    "name": "Farfetchd",
+    "catchRate": 45,
+    "baseSpeed": 60,
+    "weight": 15.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Crawdaunt",
+    "catchRate": 155,
+    "baseSpeed": 55,
+    "weight": 32.8,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

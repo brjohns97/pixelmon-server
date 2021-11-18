@@ -1,0 +1,10 @@
+{
+    "name": "Flaaffy",
+    "catchRate": 120,
+    "baseSpeed": 45,
+    "weight": 13.3,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

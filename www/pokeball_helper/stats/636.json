@@ -1,0 +1,10 @@
+{
+    "name": "Larvesta",
+    "catchRate": 45,
+    "baseSpeed": 60,
+    "weight": 28.8,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

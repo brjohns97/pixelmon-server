@@ -1,0 +1,10 @@
+{
+    "name": "Naganadel",
+    "catchRate": 45,
+    "baseSpeed": 121,
+    "weight": 150.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": true
+}

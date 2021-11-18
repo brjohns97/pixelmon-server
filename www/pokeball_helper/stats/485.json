@@ -1,0 +1,10 @@
+{
+    "name": "Heatran",
+    "catchRate": 3,
+    "baseSpeed": 77,
+    "weight": 430.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Bibarel",
+    "catchRate": 127,
+    "baseSpeed": 71,
+    "weight": 31.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

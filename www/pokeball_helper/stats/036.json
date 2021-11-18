@@ -1,0 +1,10 @@
+{
+    "name": "Clefable",
+    "catchRate": 25,
+    "baseSpeed": 60,
+    "weight": 40.0,
+    "usesMoonStone": true,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Skiddo",
+    "catchRate": 200,
+    "baseSpeed": 52,
+    "weight": 31.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Parasect",
+    "catchRate": 75,
+    "baseSpeed": 30,
+    "weight": 29.5,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Meloetta",
+    "catchRate": 3,
+    "baseSpeed": 90,
+    "weight": 6.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

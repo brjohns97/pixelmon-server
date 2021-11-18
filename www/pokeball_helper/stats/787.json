@@ -1,0 +1,10 @@
+{
+    "name": "TapuBulu",
+    "catchRate": 3,
+    "baseSpeed": 75,
+    "weight": 45.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

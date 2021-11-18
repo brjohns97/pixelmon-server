@@ -1,0 +1,10 @@
+{
+    "name": "Kingler",
+    "catchRate": 60,
+    "baseSpeed": 75,
+    "weight": 60.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

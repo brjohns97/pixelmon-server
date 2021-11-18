@@ -1,0 +1,10 @@
+{
+    "name": "Slugma",
+    "catchRate": 190,
+    "baseSpeed": 20,
+    "weight": 35.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Deoxys",
+    "catchRate": 3,
+    "baseSpeed": 150,
+    "weight": 60.8,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

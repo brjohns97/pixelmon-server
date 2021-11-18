@@ -1,0 +1,10 @@
+{
+    "name": "Gorebyss",
+    "catchRate": 60,
+    "baseSpeed": 52,
+    "weight": 22.6,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

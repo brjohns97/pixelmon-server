@@ -1,0 +1,10 @@
+{
+    "name": "Fraxure",
+    "catchRate": 60,
+    "baseSpeed": 67,
+    "weight": 36.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

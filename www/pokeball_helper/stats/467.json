@@ -1,0 +1,10 @@
+{
+    "name": "Magmortar",
+    "catchRate": 30,
+    "baseSpeed": 83,
+    "weight": 68.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

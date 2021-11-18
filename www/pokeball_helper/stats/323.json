@@ -1,0 +1,10 @@
+{
+    "name": "Camerupt",
+    "catchRate": 150,
+    "baseSpeed": 40,
+    "weight": 220.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

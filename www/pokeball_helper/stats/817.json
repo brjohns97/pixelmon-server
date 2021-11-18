@@ -1,0 +1,10 @@
+{
+    "name": "Drizzile",
+    "catchRate": 45,
+    "baseSpeed": 90,
+    "weight": 11.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Marill",
+    "catchRate": 190,
+    "baseSpeed": 40,
+    "weight": 8.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": true,
+    "ultraBeast": false
+}

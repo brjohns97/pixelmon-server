@@ -1,0 +1,10 @@
+{
+    "name": "Venonat",
+    "catchRate": 190,
+    "baseSpeed": 45,
+    "weight": 30.0,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

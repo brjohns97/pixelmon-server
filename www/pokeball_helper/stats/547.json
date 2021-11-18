@@ -1,0 +1,10 @@
+{
+    "name": "Whimsicott",
+    "catchRate": 75,
+    "baseSpeed": 116,
+    "weight": 6.6,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Mew",
+    "catchRate": 45,
+    "baseSpeed": 100,
+    "weight": 4.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

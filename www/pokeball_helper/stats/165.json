@@ -1,0 +1,10 @@
+{
+    "name": "Ledyba",
+    "catchRate": 255,
+    "baseSpeed": 55,
+    "weight": 10.8,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

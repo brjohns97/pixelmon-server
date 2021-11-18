@@ -1,0 +1,10 @@
+{
+    "name": "Serperior",
+    "catchRate": 45,
+    "baseSpeed": 113,
+    "weight": 63.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

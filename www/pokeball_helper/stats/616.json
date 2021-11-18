@@ -1,0 +1,10 @@
+{
+    "name": "Shelmet",
+    "catchRate": 200,
+    "baseSpeed": 25,
+    "weight": 7.7,
+    "usesMoonStone": false,
+    "bugType": true,
+    "waterType": false,
+    "ultraBeast": false
+}

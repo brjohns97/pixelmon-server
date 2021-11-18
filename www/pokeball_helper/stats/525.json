@@ -1,0 +1,10 @@
+{
+    "name": "Boldore",
+    "catchRate": 120,
+    "baseSpeed": 20,
+    "weight": 102.0,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

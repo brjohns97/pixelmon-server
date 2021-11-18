@@ -1,0 +1,10 @@
+{
+    "name": "Pansage",
+    "catchRate": 190,
+    "baseSpeed": 64,
+    "weight": 10.5,
+    "usesMoonStone": false,
+    "bugType": false,
+    "waterType": false,
+    "ultraBeast": false
+}

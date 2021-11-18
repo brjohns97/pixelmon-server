@@ -1,6 +1,6 @@
 <?php
     $self = '/pixelmon/www/pokeball_helper/';
-    $files = glob($self.'/*.{json}', GLOB_BRACE);
+    $files = glob($self.'/stats/*.{json}', GLOB_BRACE);
     $pokemons;
     foreach ($files as $file) {
         $pokemon = json_decode(file_get_contents($file), true);
@@ -162,10 +162,10 @@ $(document).ready( function () {
         var decimal_places = 5;
         var pokemon_name = document.getElementById('pokemonName').value;
         var pokemon_status = document.getElementById('pokemonStatus').value;
-        var pokemon_health = document.getElementById('pokemonHealth').value;
-        var turn_number = document.getElementById('turnNumber').value;
-        var your_level = document.getElementById('yourLevel').value;
-        var opp_level = document.getElementById('oppLevel').value;
+        var pokemon_health = Number(document.getElementById('pokemonHealth').value);
+        var turn_number = Number(document.getElementById('turnNumber').value);
+        var your_level = Number(document.getElementById('yourLevel').value);
+        var opp_level = Number(document.getElementById('oppLevel').value);
         var pokemon = pokemons[pokemon_name];
 
         // DO SOME CHECKS

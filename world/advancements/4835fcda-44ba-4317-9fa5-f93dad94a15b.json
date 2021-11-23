@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2021-11-18 20:27:49 -0600"
+    },
+    "done": true
+  },
   "pixelmon:pokedex/pokedex_percent_10": {
     "criteria": {
       "pokedex_percent_10": "2021-11-12 21:58:05 -0600"
@@ -518,6 +524,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2021-11-19 22:37:10 -0600"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/yellow_cushion_chair": {
     "criteria": {
       "has_wool": "2021-11-07 13:07:24 -0600"
@@ -639,6 +651,12 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/mewtwo_capture_trigger": {
+    "criteria": {
+      "mewtwo_capture": "2021-11-20 00:42:19 -0600"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2021-11-13 21:54:58 -0600"
@@ -705,9 +723,21 @@
     },
     "done": true
   },
+  "pixelmon:types/capture_poison_10": {
+    "criteria": {
+      "capture_poison_10": "2021-11-18 20:19:28 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
     "criteria": {
       "has_red_dye": "2021-11-07 01:09:11 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/fossil_machine": {
+    "criteria": {
+      "has_tank": "2021-11-20 00:14:17 -0600"
     },
     "done": true
   },
@@ -1182,6 +1212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2021-11-18 23:58:02 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-11-07 18:16:14 -0600"
@@ -1339,6 +1375,12 @@
     },
     "done": true
   },
+  "pixelmon:specs/valencian_capture_trigger": {
+    "criteria": {
+      "valencian_spec_trigger": "2021-11-18 20:19:28 -0600"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/purple_vending_machine": {
     "criteria": {
       "has_fresh_water": "2021-11-09 21:05:41 -0600"
@@ -1478,6 +1520,12 @@
     },
     "done": true
   },
+  "pixelmon:balls/master_ball_capture": {
+    "criteria": {
+      "master_ball_capture": "2021-11-20 00:42:19 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2021-11-09 22:27:48 -0600"
@@ -1516,8 +1564,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2021-11-18 20:26:18 -0600",
       "cooked_mutton": "2021-11-07 13:57:06 -0600",
       "cooked_beef": "2021-11-07 18:53:03 -0600",
+      "chorus_fruit": "2021-11-18 23:57:09 -0600",
       "clownfish": "2021-11-07 00:40:17 -0500",
       "potato": "2021-11-05 22:28:56 -0500",
       "cooked_cod": "2021-11-07 00:40:02 -0500",
@@ -2035,6 +2085,12 @@
     },
     "done": true
   },
+  "pixelmon:types/capture_flying_10": {
+    "criteria": {
+      "capture_flying_10": "2021-11-18 20:48:20 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_bonemeal": "2021-11-07 01:18:38 -0600"
@@ -2148,6 +2204,12 @@
       "has_petaya": "2021-11-07 17:43:39 -0600",
       "has_case_recipe": "2021-11-07 17:53:42 -0600",
       "has_starf": "2021-11-07 13:02:41 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/machines/cloning_machine": {
+    "criteria": {
+      "has_cord": "2021-11-20 00:13:03 -0600"
     },
     "done": true
   },
@@ -2350,6 +2412,12 @@
     },
     "done": true
   },
+  "pixelmon:balls/net_ball_capture": {
+    "criteria": {
+      "net_ball_capture": "2021-11-18 20:13:44 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-11-08 20:56:26 -0600"
@@ -2541,6 +2609,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2021-11-07 18:31:55 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_dark_10": {
+    "criteria": {
+      "capture_dark_10": "2021-11-21 21:57:39 -0600"
     },
     "done": true
   },

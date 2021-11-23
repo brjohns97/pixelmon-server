@@ -1,100 +1,719 @@
-[00:22:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[00:56:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] Suicune has spawned in a Beach biome!
-[00:56:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spawned Suicune at: world x:-583, y:64, z:779
-[00:59:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 43558b9f-940a-4253-b674-fdc1375ca76d
-[01:27:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[01:29:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[01:32:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
-[01:33:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved too quickly! 0.0,-33.679134512620834,0.0
-[01:41:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] Latias has spawned in a Ocean biome!
-[01:41:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spawned Latias at: world x:-587, y:74, z:806
-[01:44:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[01:56:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[01:59:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 fell from a high place
-[02:02:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 has made the advancement [The Parrots and the Bats]
-[02:08:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
-[02:11:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
-[02:36:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 lost connection: Disconnected
-[02:36:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 left the game
-[14:07:29] [User Authenticator #12/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player nobeet55 is 9da6b745-653a-4185-9442-797ab82c7f93
-[14:07:29] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[14:07:29] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2855,inventorytweaks@1.63+release.109.220f184,backpack@3.0.2,waystones@4.0.72,mcp@9.42,journeymap@1.12.2-5.7.0,jei@4.16.1.301,pixelmon@8.3.3
-[14:07:29] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[14:07:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[14:07:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: nobeet55[/76.191.26.203:56030] logged in with entity id 204191 at (37.31823035959789, 69.0, 560.9773018593661)
-[14:07:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 joined the game
-[14:13:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved wrongly!
-[14:13:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[14:14:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[14:15:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[14:22:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[14:22:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[14:23:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[14:23:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved wrongly!
-[14:24:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[14:25:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[14:26:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[14:33:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[14:34:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
-[14:36:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
-[14:36:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
-[14:38:09] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
-[14:39:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[14:39:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
-[14:39:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
-[14:40:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
-[14:40:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
-[14:40:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
-[14:41:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
-[14:42:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
-[14:42:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
-[14:42:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 has made the advancement [Go on have a bite]
-[14:43:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
-[14:47:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
-[14:48:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
-[14:48:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
-[14:49:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
-[14:55:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[14:55:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
-[14:55:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
-[14:56:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
-[14:56:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
-[14:58:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
-[14:59:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
-[15:02:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
-[15:03:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[15:06:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
-[15:07:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
-[15:08:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
-[15:14:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
-[15:24:35] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
-[15:27:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved wrongly!
-[15:28:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
-[15:28:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
-[15:31:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved wrongly!
-[15:32:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
-[15:34:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 lost connection: Disconnected
-[15:34:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 left the game
-[16:07:36] [User Authenticator #13/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player nobeet55 is 9da6b745-653a-4185-9442-797ab82c7f93
-[16:07:36] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
-[16:07:36] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2855,inventorytweaks@1.63+release.109.220f184,backpack@3.0.2,waystones@4.0.72,mcp@9.42,journeymap@1.12.2-5.7.0,jei@4.16.1.301,pixelmon@8.3.3
-[16:07:36] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
-[16:07:37] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[16:07:37] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: nobeet55[/76.191.26.203:51636] logged in with entity id 217530 at (37.19738675395546, 69.0, 560.1947045547)
-[16:07:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 joined the game
-[16:07:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] Lunala has appeared in a den in a Plains biome!
-[16:07:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spawned Lunala at: world x:21, y:70, z:500
-[16:08:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
-[16:13:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved wrongly!
-[16:15:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
-[16:17:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 lost connection: Disconnected
-[16:17:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 left the game
-[17:41:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[17:41:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[17:41:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[17:41:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[17:41:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[17:41:43] [Server thread/INFO] [FML]: Unloading dimension 0
-[17:41:43] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[17:41:43] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[17:41:43] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:00:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 fell from a high place
+[00:03:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard moved wrongly!
+[00:04:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard moved wrongly!
+[00:04:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -7.412402451038361,0.255179688334465,-7.33463978767395
+[00:04:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -8.70475035905838,0.29453999549150467,-8.61342978477478
+[00:04:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -9.997104465961456,0.33390068262815475,-9.892225980758667
+[00:04:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -11.28946441411972,0.3732617273926735,-11.171027898788452
+[00:04:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -12.581829965114594,0.4126231148838997,-12.449835300445557
+[00:04:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -13.874200761318207,0.45198482275009155,-13.728647947311401
+[00:04:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -15.166576564311981,0.4913468360900879,-15.007465481758118
+[00:04:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -16.458957016468048,0.5307091400027275,-16.286287784576416
+[00:04:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -17.751341998577118,0.5700717195868492,-17.565114498138428
+[00:04:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -19.04373127222061,0.6094345673918724,-18.843945503234863
+[00:05:30] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1244, -714] in dimension 0 (overworld) while populating chunk [-1243, -713], causing cascading worldgen lag.
+[00:05:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:05:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] Registeel has appeared in a den in a Extreme Hills biome!
+[00:05:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spawned Registeel at: world x:-19488, y:78, z:-10747
+[00:05:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 4.473757237195969,0.5927569977939129,9.371019423007965
+[00:05:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 4.851023018360138,0.7163755334913731,11.149716317653656
+[00:05:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 5.083975270390511,0.8397700674831867,12.952998220920563
+[00:05:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 5.171278066933155,0.963424127548933,14.769167363643646
+[00:05:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 5.112366836518049,1.0870657600462437,16.586479008197784
+[00:05:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 4.907622542232275,1.210663314908743,18.393161475658417
+[00:05:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 4.558369215577841,1.2500311248004436,20.17753666639328
+[00:05:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 4.066697593778372,1.2893989346921444,21.928018391132355
+[00:05:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 3.4359583221375942,1.3287667445838451,23.633320152759552
+[00:05:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 2.670230146497488,1.3681345544755459,25.28241401910782
+[00:05:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 1.7744650207459927,1.4075023643672466,26.86463576555252
+[00:06:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! 5.985440336840838,0.7967127741559921,-8.205468344580368
+[00:06:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:06:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:07:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:07:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! -1.9871917720738566,-4.711873713164309,-8.63834820739794
+[00:07:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! -2.139498312219075,-5.126246330597851,-9.318031965536647
+[00:07:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! -2.2902268763755274,-5.543417800500322,-9.994264997456412
+[00:07:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! -2.4397295886810753,-5.963277288366271,-10.667381861570902
+[00:07:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! -2.590334171676659,-6.385718348734585,-11.337210867401154
+[00:07:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:07:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 0f8bcb15-f47d-439e-8fec-08cf6bda6fc9
+[00:08:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:08:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:10:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 fell from a high place
+[00:10:57] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1269, -694] in dimension 0 (overworld) while populating chunk [-1269, -695], causing cascading worldgen lag.
+[00:10:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:10:57] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1269, -693] in dimension 0 (overworld) while populating chunk [-1269, -695], causing cascading worldgen lag.
+[00:10:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:11:05] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1270, -697] in dimension 0 (overworld) while populating chunk [-1270, -698], causing cascading worldgen lag.
+[00:11:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:11:05] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1270, -693] in dimension 0 (overworld) while populating chunk [-1270, -694], causing cascading worldgen lag.
+[00:11:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:11:05] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1270, -692] in dimension 0 (overworld) while populating chunk [-1270, -695], causing cascading worldgen lag.
+[00:11:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:11:17] [Server thread/INFO] [Pixelmon]: Gym spawned at -20327 63 -11080
+[00:12:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] Necrozma has spawned in a Roofed Forest biome!
+[00:12:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spawned Necrozma at: world x:-20132, y:75, z:-11005
+[00:13:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 40f69197-86d3-42a0-8e06-fc3613bbedf5
+[00:14:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[00:15:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:18:27] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1260, -672] in dimension 0 (overworld) while populating chunk [-1259, -672], causing cascading worldgen lag.
+[00:18:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:18:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 11.208236068487167,-0.13960174028761685,2.6040052324533463
+[00:18:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 12.90636858344078,-0.1645265065599233,2.9232058078050613
+[00:18:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 14.620435565710068,-0.1893853994552046,3.194619968533516
+[00:18:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 16.346929520368576,-0.21418171213008463,3.430960565805435
+[00:18:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 18.084228485822678,-0.23891857382841408,3.6364483386278152
+[00:18:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 19.82900032401085,-0.2635989573318511,3.833666145801544
+[00:18:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 21.579882949590683,-0.28822568734176457,4.0315746665000916
+[00:18:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 23.33657082915306,-0.31280144513584673,4.230139374732971
+[00:18:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 25.098773568868637,-0.33732877974398434,4.429327458143234
+[00:18:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 26.86621555685997,-0.36181011353619397,4.629107743501663
+[00:18:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 28.640097588300705,-0.4173853371758014,4.829615980386734
+[00:18:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard moved wrongly!
+[00:18:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard moved wrongly!
+[00:18:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard moved wrongly!
+[00:18:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard moved wrongly!
+[00:18:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard moved wrongly!
+[00:18:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard moved wrongly!
+[00:18:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard moved wrongly!
+[00:22:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 0f8bcb15-f47d-439e-8fec-08cf6bda6fc9
+[00:23:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:23:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:23:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:24:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:24:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 32c85019-c4b8-4a51-a1c0-f81a8958bf02
+[00:24:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:25:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:26:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:26:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:27:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:27:13] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1245, -657] in dimension 0 (overworld) while populating chunk [-1244, -657], causing cascading worldgen lag.
+[00:27:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:27:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[00:27:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved too quickly! 1.5012068779160472,-23.630158085917515,-0.9510377563527186
+[00:27:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Tyranitar moved wrongly!
+[00:27:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Tyranitar moved wrongly!
+[00:27:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Tyranitar moved wrongly!
+[00:28:01] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Tyranitar moved wrongly!
+[00:28:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! -4.699508882309601,1.2144693858648168,8.948737601309404
+[00:28:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! -5.143623086329171,1.1478301898696799,9.466615223926055
+[00:28:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:28:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:29:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:29:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:29:30] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1269, -650] in dimension 0 (overworld) while populating chunk [-1268, -650], causing cascading worldgen lag.
+[00:29:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:29:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! 3.646843875936611,0.16209561362298075,-9.433743523371959
+[00:29:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! 3.9111182721062505,0.042599503984604326,-10.078134150899132
+[00:29:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! 4.175792933769117,-0.09137256231954893,-10.72029834920977
+[00:30:26] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1289, -634] in dimension 0 (overworld) while populating chunk [-1289, -635], causing cascading worldgen lag.
+[00:30:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:30:26] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1289, -633] in dimension 0 (overworld) while populating chunk [-1289, -634], causing cascading worldgen lag.
+[00:30:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:30:26] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1289, -632] in dimension 0 (overworld) while populating chunk [-1289, -634], causing cascading worldgen lag.
+[00:30:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:30:26] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1289, -631] in dimension 0 (overworld) while populating chunk [-1289, -634], causing cascading worldgen lag.
+[00:30:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:30:27] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1290, -636] in dimension 0 (overworld) while populating chunk [-1290, -637], causing cascading worldgen lag.
+[00:30:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:30:27] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1290, -634] in dimension 0 (overworld) while populating chunk [-1290, -635], causing cascading worldgen lag.
+[00:30:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:30:27] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1290, -633] in dimension 0 (overworld) while populating chunk [-1290, -635], causing cascading worldgen lag.
+[00:30:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:30:27] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1290, -631] in dimension 0 (overworld) while populating chunk [-1290, -632], causing cascading worldgen lag.
+[00:30:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:30:27] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1290, -630] in dimension 0 (overworld) while populating chunk [-1290, -632], causing cascading worldgen lag.
+[00:30:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:30:27] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1290, -628] in dimension 0 (overworld) while populating chunk [-1290, -629], causing cascading worldgen lag.
+[00:30:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:30:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! 4.5240636284142965,0.9285572213325253,9.545214906269393
+[00:30:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! 4.901365378904302,0.8348882960172119,10.112405632393347
+[00:30:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! 5.2903326386076515,0.7257206580196822,10.669620273847613
+[00:30:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:31:06] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1291, -633] in dimension 0 (overworld) while populating chunk [-1291, -634], causing cascading worldgen lag.
+[00:31:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:31:06] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1291, -631] in dimension 0 (overworld) while populating chunk [-1291, -632], causing cascading worldgen lag.
+[00:31:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:31:06] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1291, -629] in dimension 0 (overworld) while populating chunk [-1291, -630], causing cascading worldgen lag.
+[00:31:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:31:07] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1292, -633] in dimension 0 (overworld) while populating chunk [-1292, -634], causing cascading worldgen lag.
+[00:31:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:31:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:31:07] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1292, -631] in dimension 0 (overworld) while populating chunk [-1292, -632], causing cascading worldgen lag.
+[00:31:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:31:07] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1292, -630] in dimension 0 (overworld) while populating chunk [-1292, -632], causing cascading worldgen lag.
+[00:31:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:31:07] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1292, -628] in dimension 0 (overworld) while populating chunk [-1292, -629], causing cascading worldgen lag.
+[00:31:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:31:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! -10.318102350764093,0.6982421878437037,1.893735881034445
+[00:31:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! -11.013818364721374,0.606969856740065,2.015225412320433
+[00:31:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! -11.706741739100835,0.5001039078682368,2.1355107309027517
+[00:31:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! -12.397174637433636,0.3782618482003528,2.254722132563984
+[00:31:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! -13.08538652916468,0.24203673144400284,2.372975815089376
+[00:31:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:31:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[00:32:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[00:32:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[00:32:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[00:33:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[00:33:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[00:33:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[00:33:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[00:34:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[00:34:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[00:34:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[00:35:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[00:35:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[00:36:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[00:36:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[00:37:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[00:37:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[00:37:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Passionate_Panda moved wrongly!
+[00:38:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[00:38:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[00:39:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[00:39:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[00:39:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Passionate_Panda lost connection: Disconnected
+[00:39:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Passionate_Panda left the game
+[00:40:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
+[00:41:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
+[00:41:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
+[00:42:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
+[00:43:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
+[00:43:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[00:44:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
+[00:44:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[00:44:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
+[00:45:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[00:45:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
+[00:46:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[00:46:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
+[00:47:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
+[00:47:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
+[00:48:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
+[00:48:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
+[00:49:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
+[00:49:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 fell from a high place
+[00:55:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[00:56:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[00:58:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[01:00:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[01:00:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 fell from a high place
+[01:02:14] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@1fa11bd8)
+[01:02:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[01:02:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
+[01:03:51] [Server thread/INFO] [FML]: Unloading dimension 1
+[01:04:27] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@1fa11bd8)
+[01:05:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
+[01:06:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Decidueye moved wrongly!
+[01:11:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
+[01:11:47] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [139, 98] in dimension 1 (the_end) while populating chunk [140, 99], causing cascading worldgen lag.
+[01:11:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:13:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Decidueye moved wrongly!
+[01:16:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[01:16:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[01:17:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
+[01:19:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[01:22:23] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [215, 230] in dimension 1 (the_end) while populating chunk [216, 231], causing cascading worldgen lag.
+[01:22:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:22:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Decidueye moved wrongly!
+[01:22:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Decidueye moved wrongly!
+[01:28:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
+[01:29:14] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [346, 273] in dimension 1 (the_end) while populating chunk [347, 273], causing cascading worldgen lag.
+[01:29:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:30:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] Eternatus has spawned in a The End biome!
+[01:30:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spawned Eternatus at: world x:6245, y:62, z:4530
+[01:30:28] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2361ms behind, skipping 47 tick(s)
+[01:30:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 43558b9f-940a-4253-b674-fdc1375ca76d
+[01:31:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[01:31:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
+[01:32:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[01:32:52] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[01:36:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 80e76e58-b426-4586-b3b1-4ac515baad56
+[01:37:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
+[01:40:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[01:40:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[01:40:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[01:41:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[01:41:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[01:41:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[01:41:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[01:41:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[01:42:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[01:42:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[01:42:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[01:42:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[01:43:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 lost connection: Disconnected
+[01:43:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 left the game
+[01:43:12] [Server thread/INFO] [FML]: Unloading dimension 1
+[17:10:38] [User Authenticator #13/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player nobeet55 is 9da6b745-653a-4185-9442-797ab82c7f93
+[17:10:38] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[17:10:38] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2855,inventorytweaks@1.63+release.109.220f184,backpack@3.0.2,waystones@4.0.72,mcp@9.42,journeymap@1.12.2-5.7.0,jei@4.16.1.301,pixelmon@8.3.3
+[17:10:38] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[17:10:39] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:10:39] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@1fa11bd8)
+[17:10:39] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: nobeet55[/73.8.128.126:54622] logged in with entity id 177068 at (7641.8066840261845, 62.0, 5181.266650225536)
+[17:10:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 joined the game
+[17:11:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:15:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Decidueye moved wrongly!
+[17:15:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Decidueye moved wrongly!
+[17:22:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[17:23:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 fell out of the world
+[17:23:29] [Server thread/INFO] [FML]: Unloading dimension 1
+[17:34:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:46:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:46:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:47:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:47:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:47:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:48:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[17:48:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[17:49:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[17:49:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[17:50:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:52:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:52:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:53:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:53:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:53:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:53:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:54:09] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:54:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:54:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:54:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:55:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:55:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:56:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:56:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:57:09] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:57:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[17:57:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:00:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:00:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[18:01:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[18:01:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Blaziken moved wrongly!
+[18:01:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Blaziken moved wrongly!
+[18:02:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:03:09] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:03:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:03:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:03:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:04:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:04:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:05:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:05:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:06:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
+[18:07:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
+[18:07:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:08:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:08:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:19:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:19:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:20:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:22:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:22:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:23:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:24:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
+[18:26:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:26:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:26:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:27:35] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:27:53] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:28:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:28:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:29:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:29:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:29:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:29:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:30:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[18:31:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[18:31:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[18:31:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[18:32:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[18:32:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[18:32:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[18:32:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[18:33:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[18:33:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[18:34:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[18:34:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[18:37:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[18:38:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
+[18:39:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
+[18:39:52] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[18:40:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:40:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[18:40:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:41:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:41:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:41:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved wrongly!
+[18:41:52] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[18:43:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:48:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 20099845-4aac-466c-b634-c62f96bcd207
+[18:50:01] [User Authenticator #14/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Passionate_Panda is 4835fcda-44ba-4317-9fa5-f93dad94a15b
+[18:50:01] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[18:50:01] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2855,inventorytweaks@1.63+release.109.220f184,backpack@3.0.2,waystones@4.0.72,mcp@9.42,journeymap@1.12.2-5.7.0,jei@4.16.1.301,pixelmon@8.3.3
+[18:50:01] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[18:50:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:50:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Passionate_Panda[/192.168.1.1:5677] logged in with entity id 190192 at (41.63807356895245, 69.0, 556.3920727122373)
+[18:50:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Passionate_Panda joined the game
+[18:51:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Passionate_Panda lost connection: Disconnected
+[18:51:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Passionate_Panda left the game
+[18:52:53] [User Authenticator #15/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Passionate_Panda is 4835fcda-44ba-4317-9fa5-f93dad94a15b
+[18:52:53] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[18:52:53] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2855,inventorytweaks@1.63+release.109.220f184,backpack@3.0.2,waystones@4.0.72,mcp@9.42,journeymap@1.12.2-5.7.0,jei@4.16.1.301,pixelmon@8.3.3
+[18:52:53] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[18:52:53] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:52:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Passionate_Panda[/192.168.1.1:1257] logged in with entity id 190762 at (32.83361420825829, 69.0, 559.9438202432888)
+[18:52:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Passionate_Panda joined the game
+[18:54:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 40f69197-86d3-42a0-8e06-fc3613bbedf5
+[18:55:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[18:55:35] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[18:55:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[18:56:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[18:56:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[18:56:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[18:57:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[18:58:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[18:58:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[18:59:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved too quickly! 5.3460717671603675,1.1767592750642422,-8.438323685438263
+[18:59:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 lost connection: Timed out
+[18:59:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 left the game
+[18:59:53] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@4791c6fc[id=<null>,name=nobeet55,properties={},legacy=false] (/73.8.128.126:51853) lost connection: Disconnected
+[18:59:56] [User Authenticator #16/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player nobeet55 is 9da6b745-653a-4185-9442-797ab82c7f93
+[18:59:56] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[18:59:56] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2855,inventorytweaks@1.63+release.109.220f184,backpack@3.0.2,waystones@4.0.72,mcp@9.42,journeymap@1.12.2-5.7.0,jei@4.16.1.301,pixelmon@8.3.3
+[18:59:56] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[18:59:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:59:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: nobeet55[/73.8.128.126:51854] logged in with entity id 192518 at (82.6825399728254, 69.25220334025373, 550.2513395512705)
+[18:59:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 joined the game
+[19:00:22] [Server thread/INFO] [FML]: Loading dimension 72 (world) (net.minecraft.server.dedicated.DedicatedServer@1fa11bd8)
+[19:01:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:01:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:01:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:02:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:02:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:03:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:03:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:04:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[19:05:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:06:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:06:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:07:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:07:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:09:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 40f69197-86d3-42a0-8e06-fc3613bbedf5
+[19:10:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 40f69197-86d3-42a0-8e06-fc3613bbedf5
+[19:10:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:11:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:11:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:11:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:11:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:12:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:12:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:13:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 40f69197-86d3-42a0-8e06-fc3613bbedf5
+[19:13:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:13:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:13:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:14:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:14:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:14:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:14:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:15:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:15:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:16:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:16:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:17:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[19:17:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:17:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:17:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:18:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:18:35] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:18:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 40f69197-86d3-42a0-8e06-fc3613bbedf5
+[19:18:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[19:19:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[19:19:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:19:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[19:19:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[19:20:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[19:20:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[19:20:43] [Server thread/INFO] [FML]: Unloading dimension 72
+[19:24:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:24:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 has made the advancement [Cheater!]
+[19:24:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 fell from a high place
+[19:29:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:31:27] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1221, -660] in dimension 0 (overworld) while populating chunk [-1220, -660], causing cascading worldgen lag.
+[19:31:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:31:29] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1223, -661] in dimension 0 (overworld) while populating chunk [-1222, -661], causing cascading worldgen lag.
+[19:31:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Necrozma (vehicle of Passionate_Panda) moved too quickly! 2.141326295724866,9.740221031338763,2.396876338598304
+[19:32:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Necrozma (vehicle of Passionate_Panda) moved too quickly! 2.475794589434372,11.095739941775932,2.798713386622694
+[19:32:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Necrozma (vehicle of Passionate_Panda) moved too quickly! 2.811867725507909,12.378372328323323,3.2096572334812663
+[19:32:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Necrozma (vehicle of Passionate_Panda) moved too quickly! 3.147136368050269,13.591004495964583,3.630259373661829
+[19:32:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Necrozma (vehicle of Passionate_Panda) moved too quickly! 3.476732478247868,14.736408452059948,4.062423157354715
+[19:32:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Necrozma (vehicle of Passionate_Panda) moved too quickly! 3.793560711936152,15.817246432530013,4.508403195157371
+[19:32:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Necrozma (vehicle of Passionate_Panda) moved too quickly! 4.092216266191826,16.836075248802658,4.96885123001266
+[19:32:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Necrozma (vehicle of Passionate_Panda) moved too quickly! 4.370025917192834,17.79535046262103,5.4432135691513395
+[19:32:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Necrozma (vehicle of Passionate_Panda) moved too quickly! 4.628578533673135,18.697430395529153,5.9301010483759455
+[19:32:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Necrozma (vehicle of Passionate_Panda) moved too quickly! 4.869957726270513,19.544579979581954,6.428158447852184
+[19:32:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[19:32:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
+[19:32:45] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1238, -622] in dimension 0 (overworld) while populating chunk [-1237, -622], causing cascading worldgen lag.
+[19:32:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:45] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1238, -621] in dimension 0 (overworld) while populating chunk [-1238, -622], causing cascading worldgen lag.
+[19:32:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:45] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1237, -621] in dimension 0 (overworld) while populating chunk [-1238, -622], causing cascading worldgen lag.
+[19:32:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:49] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1239, -624] in dimension 0 (overworld) while populating chunk [-1239, -625], causing cascading worldgen lag.
+[19:32:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:49] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1239, -622] in dimension 0 (overworld) while populating chunk [-1239, -623], causing cascading worldgen lag.
+[19:32:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:49] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1239, -621] in dimension 0 (overworld) while populating chunk [-1239, -623], causing cascading worldgen lag.
+[19:32:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:50] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1240, -624] in dimension 0 (overworld) while populating chunk [-1240, -625], causing cascading worldgen lag.
+[19:32:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:51] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1240, -622] in dimension 0 (overworld) while populating chunk [-1240, -623], causing cascading worldgen lag.
+[19:32:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:33:05] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1252, -628] in dimension 0 (overworld) while populating chunk [-1252, -627], causing cascading worldgen lag.
+[19:33:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:33:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Garchomp (vehicle of nobeet55) moved too quickly! -4.6521781245507725,-1.054759895951932,8.875946902946566
+[19:33:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Garchomp (vehicle of nobeet55) moved too quickly! -4.927219215594363,-1.24112585961565,9.427237998751764
+[19:34:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Necrozma (vehicle of Passionate_Panda) moved too quickly! 8.30913543038696,-4.964943478240912,3.7564295806769223
+[19:34:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Necrozma (vehicle of Passionate_Panda) moved too quickly! 8.87325297688949,-5.355119145321723,4.015364717088232
+[19:34:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Necrozma (vehicle of Passionate_Panda) moved too quickly! 9.435074104592786,-5.749051863653136,4.273543577470264
+[19:34:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Necrozma (vehicle of Passionate_Panda) moved too quickly! 9.99484728594689,-6.1465928540758625,4.531047990869411
+[19:34:28] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1239, -619] in dimension 0 (overworld) while populating chunk [-1240, -620], causing cascading worldgen lag.
+[19:34:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:34:28] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1239, -620] in dimension 0 (overworld) while populating chunk [-1240, -620], causing cascading worldgen lag.
+[19:34:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:34:28] [Server thread/INFO] [Pixelmon]: Gym spawned at -19833 63 -9906
+[19:35:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 lost connection: Disconnected
+[19:35:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 left the game
+[19:38:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 3f158271-06db-452b-ac99-c1db6f7f9c4a
+[19:39:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[19:40:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Passionate_Panda moved too quickly! 0.0,-24.37103701587668,-2.319663907661379
+[19:40:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Passionate_Panda fell from a high place
+[19:42:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! -9.761498807758471,-1.5835014923510755,2.4903007380598865
+[19:42:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mewtwo (vehicle of Passionate_Panda) moved too quickly! -10.367673023552925,-1.7974382516575957,2.7960632705344324
+[19:43:28] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1246, -594] in dimension 0 (overworld) while populating chunk [-1247, -594], causing cascading worldgen lag.
+[19:43:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:44:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Swampert moved wrongly!
+[19:44:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[19:45:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[19:45:20] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1290, -619] in dimension 0 (overworld) while populating chunk [-1290, -618], causing cascading worldgen lag.
+[19:45:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:45:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Swampert moved wrongly!
+[19:45:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Swampert moved wrongly!
+[19:45:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Swampert moved wrongly!
+[19:45:37] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1293, -623] in dimension 0 (overworld) while populating chunk [-1293, -622], causing cascading worldgen lag.
+[19:45:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:45:37] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-1293, -624] in dimension 0 (overworld) while populating chunk [-1293, -622], causing cascading worldgen lag.
+[19:45:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:47:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[19:48:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Passionate_Panda lost connection: Disconnected
+[19:48:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Passionate_Panda left the game
+[20:11:41] [User Authenticator #17/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player nobeet55 is 9da6b745-653a-4185-9442-797ab82c7f93
+[20:11:41] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[20:11:41] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2855,inventorytweaks@1.63+release.109.220f184,backpack@3.0.2,waystones@4.0.72,mcp@9.42,journeymap@1.12.2-5.7.0,jei@4.16.1.301,pixelmon@8.3.3
+[20:11:41] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[20:11:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:11:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: nobeet55[/73.8.128.126:54108] logged in with entity id 205358 at (38.528714456768995, 69.0, 557.9157337879865)
+[20:11:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 joined the game
+[20:11:42] [Server thread/WARN] [Pixelmon]: Found invalid objective progress data in an instance of quest Visit Ultra Space.json, resetting that instance!
+[20:11:42] [Server thread/WARN] [Pixelmon]: Found invalid objective progress data in an instance of quest Articuno.json, resetting that instance!
+[20:11:42] [Server thread/WARN] [Pixelmon]: Found invalid objective progress data in an instance of quest Find Pokeloot.json, resetting that instance!
+[20:13:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[20:13:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[20:14:21] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[20:14:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved too quickly! 0.24340124697243937,-10.996950600700401,0.16647024161375157
+[20:14:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[20:15:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[20:15:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[20:15:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[20:15:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[20:16:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[20:16:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[20:16:38] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[20:16:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[20:17:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] Kyogre has spawned in a Deep Ocean biome!
+[20:17:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spawned Kyogre at: world x:-351, y:44, z:698
+[20:17:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved wrongly!
+[20:17:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[20:18:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 has made the advancement [Wave crasher!]
+[20:19:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[20:19:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[20:34:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
+[20:40:36] [User Authenticator #18/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Passionate_Panda is 4835fcda-44ba-4317-9fa5-f93dad94a15b
+[20:40:36] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[20:40:36] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2855,inventorytweaks@1.63+release.109.220f184,backpack@3.0.2,waystones@4.0.72,mcp@9.42,journeymap@1.12.2-5.7.0,jei@4.16.1.301,pixelmon@8.3.3
+[20:40:36] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[20:40:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:40:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Passionate_Panda[/192.168.1.1:17203] logged in with entity id 209723 at (-20636.96513174493, 72.0, -9774.42136999102)
+[20:40:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Passionate_Panda joined the game
+[20:43:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[20:44:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[20:45:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[20:46:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[20:47:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Swampert moved wrongly!
+[20:47:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Swampert moved wrongly!
+[20:47:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Garchomp moved wrongly!
+[20:47:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Garchomp moved wrongly!
+[20:48:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[20:48:12] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[20:48:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 0f8bcb15-f47d-439e-8fec-08cf6bda6fc9
+[20:50:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Garchomp (vehicle of nobeet55) moved too quickly! -9.355558239058155,-3.909905291521085,-0.7730923782219179
+[20:50:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Garchomp (vehicle of nobeet55) moved too quickly! -9.973079151917773,-4.2453932454223064,-0.8216233989478496
+[20:50:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Garchomp (vehicle of nobeet55) moved too quickly! -10.587029003407224,-4.586803882993834,-0.869690519906726
+[20:50:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[20:50:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[20:50:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Decidueye (vehicle of nobeet55) moved too quickly! 0.0443370371722267,-6.576191985763373,7.885095978652316
+[20:50:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Decidueye (vehicle of nobeet55) moved too quickly! -0.27160542911224184,-7.028927823156465,8.238529352092883
+[20:50:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Decidueye (vehicle of nobeet55) moved too quickly! -0.6066176298591017,-7.482943330225169,8.585953997542674
+[20:50:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[20:51:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Passionate_Panda moved too quickly! -1.4342505459717358,-15.718100750777282,-0.31508039873006055
+[20:51:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 2571e3b2-f256-40bd-b147-fdbcaee2a39e
+[20:51:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[20:52:11] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 33c5dd5c-6198-4a35-babe-b57f4c24b377
+[20:52:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Decidueye moved wrongly!
+[20:52:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Decidueye moved wrongly!
+[20:53:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[20:53:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[20:54:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[20:55:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[20:55:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Passionate_Panda hit the ground too hard
+[20:55:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved too quickly! 0.0,-16.56557920808082,0.0
+[20:56:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[20:56:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[20:57:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 40f69197-86d3-42a0-8e06-fc3613bbedf5
+[20:57:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 40f69197-86d3-42a0-8e06-fc3613bbedf5
+[20:59:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Decidueye (vehicle of nobeet55) moved too quickly! 5.792197459089948,-5.070903140672527,-7.1938487741936115
+[21:00:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[21:02:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 11.057784289121628,-3.794075019657612,0.5313421431928873
+[21:02:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 12.96864053606987,-4.512603014707565,0.19581731595098972
+[21:02:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 14.86166986823082,-5.276577480137348,-0.26004192791879177
+[21:02:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 16.71561560034752,-6.086112439632416,-0.8765010591596365
+[21:02:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 18.519378632307053,-6.942006044089794,-1.6440293546766043
+[21:02:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 20.26291736960411,-7.845082074403763,-2.553288673982024
+[21:02:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 21.93736144900322,-8.79589045792818,-3.594659661874175
+[21:02:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 23.534881561994553,-9.794856950640678,-4.758468603715301
+[21:02:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 25.04862353205681,-10.842750512063503,-6.035027718171477
+[21:02:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 26.472518652677536,-11.939613699913025,-7.414809321984649
+[21:02:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 27.801476687192917,-13.085568778216839,-8.888185953721404
+[21:02:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 29.031226485967636,-14.281364306807518,-10.445613479241729
+[21:04:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 fell from a high place
+[21:05:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 45e90017-c389-44b9-921d-84aae8bc8155
+[21:05:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved too quickly! -0.9238970122121444,-12.204516343588963,-1.2013604092708192
+[21:07:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[21:08:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID 0f8bcb15-f47d-439e-8fec-08cf6bda6fc9
+[21:08:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[21:11:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -4.2757333517074585,-0.44133326411247253,-10.715618133544922
+[21:11:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -4.988355576992035,-0.514888808131218,-12.501554489135742
+[21:11:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -5.700977802276611,-0.5884443521499634,-14.287490844726562
+[21:11:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -6.432224214076996,-0.6619998961687088,-16.065882682800293
+[21:11:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -7.237316131591797,-0.7355554401874542,-17.81208598613739
+[21:11:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -8.14602243900299,-0.8091109842061996,-19.506680965423584
+[21:11:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -9.129189729690552,-0.8826665282249451,-21.159188508987427
+[21:11:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -10.14245092868805,-0.9562220722436905,-22.793416380882263
+[21:11:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -11.16852855682373,-1.029777616262436,-24.419627785682678
+[21:11:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 8.254543244838715,0.5884443521499634,12.981606841087341
+[21:11:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -8.788695812225342,-0.514888808131218,-7.078949508595542
+[21:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 fell from a high place
+[21:12:14] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-89, -88] in dimension 0 (overworld) while populating chunk [-88, -88], causing cascading worldgen lag.
+[21:12:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:12:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 10.397925943136215,-0.9756492674350739,-5.402403771877289
+[21:12:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 12.14218732714653,-1.0327989980578423,-6.3086618185043335
+[21:12:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 13.871195882558823,-1.0897987596690655,-7.206995010375977
+[21:12:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 15.5895274579525,-1.1466935463249683,-8.099780797958374
+[21:12:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 17.3003850877285,-1.2035148479044437,-8.9886834025383
+[21:12:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 19.006011098623276,-1.2602847125381231,-9.874867856502533
+[21:12:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 20.707974761724472,-1.3170185685157776,-10.759149491786957
+[21:12:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 22.407375067472458,-1.3737272210419178,-11.642099261283875
+[21:12:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 24.104980915784836,-1.4304182305932045,-12.524116694927216
+[21:12:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 25.801330536603928,-1.4870968870818615,-13.405481398105621
+[21:12:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 27.496800869703293,-1.543766899034381,-14.286389291286469
+[21:12:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 29.191655844449997,-1.6004308611154556,-15.16697746515274
+[21:12:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 30.886079877614975,-1.6570905856788158,-16.04734170436859
+[21:14:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[21:15:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[21:15:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[21:16:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Passionate_Panda moved too quickly! -2.0636515393694026,-29.535839796066284,-0.42500001192092896
+[21:16:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[21:20:40] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[21:20:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -8.209440231323242,1.6628588810563087,7.352644681930542
+[21:20:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -9.38209581375122,1.9003817439079285,8.40291678905487
+[21:20:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -10.55476438999176,2.137907825410366,9.453201651573181
+[21:20:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -11.727445125579834,2.375436946749687,10.503498792648315
+[21:20:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -12.900137424468994,2.61296895891428,11.553807616233826
+[21:20:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -14.072840929031372,2.8505037128925323,12.604127407073975
+[21:20:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -15.245554804801941,3.088041089475155,13.654457688331604
+[21:20:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -16.418278694152832,3.3255809396505356,14.704797863960266
+[21:20:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -17.591012120246887,3.563123144209385,15.755147576332092
+[21:20:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 14.069141149520874,-2.849626839160919,-12.600802898406982
+[21:21:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 1.89214289188385,0.6487754434347153,-11.55453872680664
+[21:21:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard moved wrongly!
+[21:21:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -4.681348898494889,-7.860101342399844,-5.448557099809932
+[21:21:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -5.035317878472597,-8.827518685188878,-5.8606401061908855
+[21:21:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -5.386103358822766,-9.834558320775841,-6.269026834143233
+[21:21:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -5.734049794123166,-10.879651207106562,-6.67411722089787
+[21:21:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -6.079464368975096,-11.961290436162884,-7.076267930487802
+[21:21:35] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[21:22:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[21:23:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -1.647300824522972,0.35845350474119186,-11.302479267120361
+[21:23:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -1.9154149740934372,0.4129106476902962,-13.08522117137909
+[21:23:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -2.2440381199121475,0.4673677906394005,-14.857807159423828
+[21:23:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -2.7148627191781998,0.5218249335885048,-16.59803080558777
+[21:23:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -3.32464499771595,0.5762820765376091,-18.294562458992004
+[21:23:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -4.069561377167702,0.6307392194867134,-19.936254739761353
+[21:23:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -4.944585934281349,0.6851963624358177,-21.51244831085205
+[21:23:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -5.944149866700172,0.739653505384922,-23.012756943702698
+[21:23:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -7.034245863556862,0.7941106483340263,-24.4486346244812
+[21:23:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -8.124341860413551,0.8485677912831306,-25.884512305259705
+[21:23:27] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-150, -143] in dimension 0 (overworld) while populating chunk [-149, -143], causing cascading worldgen lag.
+[21:23:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:23:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 1.433519152700228,-10.570326999376093,1.5123599057337742
+[21:24:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[21:26:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[21:26:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d18af095-8424-4d49-98a3-1548d972ba53
+[21:27:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[21:28:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Passionate_Panda moved wrongly!
+[21:29:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID d2a9fc0b-fbb2-40f3-a3c9-60ca91fca3ee
+[21:30:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[21:31:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID dfc8274d-8248-4d23-9ab6-d218981470d7
+[21:31:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Decidueye moved wrongly!
+[21:32:31] [Server thread/WARN] [FML]: Pixelmon loaded a new chunk [-218, -143] in dimension 0 (overworld) while populating chunk [-217, -142], causing cascading worldgen lag.
+[21:32:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:32:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity pixelmon:pixelmon that already exists with UUID e1a803f8-52f4-48ae-94dd-ebd2899011ac
+[21:32:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 9.726404070854187,-3.3467665389180183,-3.3108206391334534
+[21:32:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 11.769352316856384,-4.044791087508202,-3.739633858203888
+[21:32:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 13.833175301551819,-4.746132932603359,-4.116726607084274
+[21:32:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 15.917720437049866,-5.450626194477081,-4.430230230093002
+[21:32:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 18.024728894233704,-6.1581133380532265,-4.640608370304108
+[21:32:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 20.15008056163788,-6.731054395437241,-4.710729137063026
+[21:32:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 22.283958315849304,-7.306603617966175,-4.639098212122917
+[21:32:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 24.416453957557678,-7.884670123457909,-4.4249362498521805
+[21:32:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 26.537620663642883,-8.464738108217716,-4.068181172013283
+[21:32:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 28.637524247169495,-9.046939849853516,-3.5694867223501205
+[21:32:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! 30.706233620643616,-9.631310276687145,-2.9300192445516586
+[21:32:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -18.024633765220642,6.019502274692059,-7.0788237527012825
+[21:32:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Charizard (vehicle of Passionate_Panda) moved too quickly! -17.83963143825531,6.015921585261822,-7.81397358328104
+[21:33:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Passionate_Panda lost connection: Disconnected
+[21:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Passionate_Panda left the game
+[21:34:13] [User Authenticator #19/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Passionate_Panda is 4835fcda-44ba-4317-9fa5-f93dad94a15b
+[21:34:13] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[21:34:13] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 11 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2855,inventorytweaks@1.63+release.109.220f184,backpack@3.0.2,pixelmonbroadcasts@1.12.2-1.1.1-universal,waystones@4.0.72,mcp@9.42,journeymap@1.12.2-5.7.0,jei@4.16.1.301,pixelmon@8.3.3
+[21:34:13] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[21:34:13] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:34:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Passionate_Panda[/192.168.1.1:31955] logged in with entity id 228252 at (-3141.3887014053566, 79.0, -2130.08871217363)
+[21:34:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Passionate_Panda joined the game
+[21:35:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Passionate_Panda lost connection: Disconnected
+[21:35:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Passionate_Panda left the game
+[21:35:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 lost connection: Disconnected
+[21:35:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 left the game
+[21:36:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[21:36:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:36:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:36:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[21:36:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[21:36:10] [Server thread/INFO] [FML]: Unloading dimension 0
+[21:36:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:36:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:36:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

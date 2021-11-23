@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-11-18 22:05:50 -0600"
+    },
+    "done": true
+  },
   "pixelmon:legendaries/articuno_capture_trigger": {
     "criteria": {
       "articuno_capture": "2021-11-12 21:20:37 -0600"
@@ -276,6 +282,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/blue_clock": {
+    "criteria": {
+      "has_clock": "2021-11-18 23:33:24 -0600"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/brown_rug": {
     "criteria": {
       "has_wool": "2021-11-07 15:24:39 -0600"
@@ -337,6 +349,12 @@
     },
     "done": true
   },
+  "pixelmon:types/capture_psychic_10": {
+    "criteria": {
+      "capture_psychic_10": "2021-11-18 20:02:49 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2021-11-07 13:27:32 -0600"
@@ -364,6 +382,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_red_sandstone": "2021-11-13 17:32:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2021-11-18 22:05:50 -0600"
     },
     "done": true
   },
@@ -412,6 +436,12 @@
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2021-11-05 22:51:30 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/gray_clock": {
+    "criteria": {
+      "has_clock": "2021-11-18 23:33:24 -0600"
     },
     "done": true
   },
@@ -719,6 +749,18 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/mewtwo_capture_trigger": {
+    "criteria": {
+      "mewtwo_capture": "2021-11-20 00:28:58 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/white_clock": {
+    "criteria": {
+      "has_clock": "2021-11-18 23:33:24 -0600"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2021-11-13 21:55:02 -0600"
@@ -812,6 +854,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-11-07 13:41:17 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:legendaries/kyogre_capture_trigger": {
+    "criteria": {
+      "kyogre_capture": "2021-11-22 20:18:23 -0600"
     },
     "done": true
   },
@@ -917,6 +965,12 @@
     },
     "done": true
   },
+  "pixelmon:types/capture_water_25": {
+    "criteria": {
+      "capture_water_25": "2021-11-19 13:02:42 -0600"
+    },
+    "done": true
+  },
   "pixelmon:balls/ball_capture_trigger": {
     "criteria": {
       "ball_capture_poke_ball": "2021-11-06 01:46:34 -0500"
@@ -932,6 +986,12 @@
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_rail": "2021-11-06 00:55:46 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/pink_clock": {
+    "criteria": {
+      "has_clock": "2021-11-18 23:33:24 -0600"
     },
     "done": true
   },
@@ -1197,6 +1257,18 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/yellow_clock": {
+    "criteria": {
+      "has_clock": "2021-11-18 23:33:24 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:legendaries/celebi_capture_trigger": {
+    "criteria": {
+      "celebi_capture": "2021-11-18 20:02:49 -0600"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2021-11-10 22:15:57 -0600"
@@ -1287,6 +1359,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2021-11-20 00:40:32 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:specs/spheal_jump_capture_all": {
+    "criteria": {
+      "0": "2021-11-19 13:02:42 -0600"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-11-07 13:41:17 -0600"
@@ -1296,6 +1380,12 @@
   "minecraft:recipes/decorations/purple_shulker_box": {
     "criteria": {
       "has_shulker_shell": "2021-11-11 20:34:36 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/black_clock": {
+    "criteria": {
+      "has_clock": "2021-11-18 23:33:24 -0600"
     },
     "done": true
   },
@@ -1311,9 +1401,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2021-11-18 22:05:50 -0600"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/orange_umbrella": {
     "criteria": {
       "has_wool": "2021-11-07 15:24:39 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/cyan_clock": {
+    "criteria": {
+      "has_clock": "2021-11-18 23:33:24 -0600"
     },
     "done": true
   },
@@ -1611,6 +1713,12 @@
     },
     "done": true
   },
+  "pixelmon:balls/master_ball_capture": {
+    "criteria": {
+      "master_ball_capture": "2021-11-19 22:30:45 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2021-11-09 22:04:25 -0600"
@@ -1711,6 +1819,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-11-07 13:41:17 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/purple_clock": {
+    "criteria": {
+      "has_clock": "2021-11-18 23:33:24 -0600"
     },
     "done": true
   },
@@ -2024,6 +2138,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/orange_clock": {
+    "criteria": {
+      "has_clock": "2021-11-18 23:33:24 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2021-11-05 22:18:17 -0500"
@@ -2195,6 +2315,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/green_clock": {
+    "criteria": {
+      "has_clock": "2021-11-18 23:33:24 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2021-11-05 22:13:50 -0500"
@@ -2243,6 +2369,12 @@
     },
     "done": true
   },
+  "pixelmon:balls/park_ball_capture": {
+    "criteria": {
+      "park_ball_capture": "2021-11-22 19:24:18 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-11-07 15:24:39 -0600"
@@ -2277,6 +2409,12 @@
   "pixelmon:recipes/decorative/blue_rug": {
     "criteria": {
       "has_wool": "2021-11-07 15:24:39 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/brown_clock": {
+    "criteria": {
+      "has_clock": "2021-11-18 23:33:24 -0600"
     },
     "done": true
   },
@@ -2353,6 +2491,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/machines/cloning_machine": {
+    "criteria": {
+      "has_cord": "2021-11-20 00:16:00 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2021-11-05 22:50:52 -0500"
@@ -2393,6 +2537,12 @@
   "pixelmon:types/capture_dragon_10": {
     "criteria": {
       "capture_dragon_10": "2021-11-13 00:51:26 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:recipes/decorative/red_clock": {
+    "criteria": {
+      "has_clock": "2021-11-18 23:33:24 -0600"
     },
     "done": true
   },
@@ -2486,6 +2636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2021-11-18 22:04:01 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2021-11-07 13:26:35 -0600"
@@ -2567,6 +2723,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2021-11-05 22:18:17 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:balls/net_ball_capture": {
+    "criteria": {
+      "net_ball_capture": "2021-11-18 21:30:44 -0600"
     },
     "done": true
   },
@@ -2778,6 +2940,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-11-05 22:18:17 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_steel_10": {
+    "criteria": {
+      "capture_steel_10": "2021-11-19 00:59:40 -0600"
     },
     "done": true
   },

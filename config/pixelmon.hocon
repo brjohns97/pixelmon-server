@@ -251,7 +251,7 @@ General {
     # Whether or not the "Drop All" button in the Pokémon drops screen will delete the items or drop them on the ground.
     deleteUnwantedDrops=false
     # The minimum number of blocks away from the nearest player a Pokémon can be when despawned.
-    despawnRadius=80
+    despawnRadius=120
     # Determines if non player owned Pokémon's movement is disabled or not.
     disabledNonPlayerPixelmonMovement=false
     # Height of Dynamax and Gigantamax in blocks.
@@ -669,11 +669,11 @@ Spawning {
     # Whether or not Pixelmon should modify Minecraft loot tables.
     injectIntoLootTables=true
     # Number of ticks until legendaries will despawn.
-    legendaryDespawnTicks=6000
+    legendaryDespawnTicks=12000
     # Chance that a Legendary spawn attempt will succeed (0-1).
-    legendarySpawnChance=0.30000001192092896
+    legendarySpawnChance=1
     # Average number of ticks before an attempt at Legendary spawning will be made (modified by spawn chance).
-    legendarySpawnTicks=25000
+    legendarySpawnTicks=12500
     # Which types of loot, such as "simple_dungeon", that Pixelmon should not modify.
     lootIgnoreList=[]
     # How long the effects of the Black/White Flute last for in seconds once used.

@@ -1,0 +1,42 @@
+Battle data 2021-12-02T21:50:14.949Z
+Turn #0
+ - WildPokemon Scatterbug pokemon=Scatterbug, action=ATTACK, attack=AttackBase{attackIndex=120, attackName='String Shot'}, results=[MoveResults{damage=0, fullDamage=0, accuracy=0, priority=0.0, result=succeeded, weightMod=0.0}]
+ - WildPokemon Shroomish pokemon=Shroomish, action=ATTACK, attack=AttackBase{attackIndex=117, attackName='Absorb'}, results=[MoveResults{damage=0, fullDamage=0, accuracy=0, priority=0.0, result=hit, weightMod=0.0}]
+Turn #1
+ - WildPokemon Scatterbug pokemon=Scatterbug, action=ATTACK, attack=AttackBase{attackIndex=119, attackName='Stun Spore'}, results=[MoveResults{damage=0, fullDamage=0, accuracy=0, priority=0.0, result=failed, weightMod=0.0}]
+ - WildPokemon Shroomish pokemon=Shroomish, action=ATTACK, attack=AttackBase{attackIndex=119, attackName='Stun Spore'}, results=[MoveResults{damage=0, fullDamage=0, accuracy=0, priority=0.0, result=proceed, weightMod=0.0}]
+Turn #2
+ - WildPokemon Scatterbug pokemon=Scatterbug, action=ATTACK, attack=AttackBase{attackIndex=119, attackName='Stun Spore'}, results=[MoveResults{damage=0, fullDamage=0, accuracy=0, priority=0.0, result=failed, weightMod=0.0}]
+ - WildPokemon Shroomish pokemon=Shroomish, action=ATTACK, attack=AttackBase{attackIndex=119, attackName='Stun Spore'}, results=[MoveResults{damage=0, fullDamage=0, accuracy=0, priority=0.0, result=proceed, weightMod=0.0}]
+Turn #3
+ - WildPokemon Scatterbug pokemon=Scatterbug, action=ATTACK, attack=AttackBase{attackIndex=119, attackName='Stun Spore'}, results=[MoveResults{damage=0, fullDamage=0, accuracy=0, priority=0.0, result=failed, weightMod=0.0}]
+ - WildPokemon Shroomish pokemon=Shroomish, action=ATTACK, attack=AttackBase{attackIndex=2, attackName='Tackle'}, results=[MoveResults{damage=0, fullDamage=0, accuracy=0, priority=0.0, result=hit, weightMod=0.0}]
+Turn #4
+ - WildPokemon Scatterbug pokemon=Scatterbug, action=ATTACK, attack=AttackBase{attackIndex=2, attackName='Tackle'}, results=[MoveResults{damage=0, fullDamage=0, accuracy=0, priority=0.0, result=hit, weightMod=0.0}]
+ - WildPokemon Shroomish pokemon=Shroomish, action=ATTACK, attack=AttackBase{attackIndex=119, attackName='Stun Spore'}, results=[MoveResults{damage=0, fullDamage=0, accuracy=0, priority=0.0, result=proceed, weightMod=0.0}]
+Turn #5
+Caught error in battle. Continuing...
+null
+com.pixelmonmod.pixelmon.battles.status.StatusPersist.addStatus(StatusPersist.java:85)
+com.pixelmonmod.pixelmon.battles.status.Sleep.sleep(Sleep.java:55)
+com.pixelmonmod.pixelmon.entities.pixelmon.abilities.EffectSpore.applyEffectOnContactTarget(EffectSpore.java:31)
+com.pixelmonmod.pixelmon.battles.attacks.Attack.applyContact(Attack.java:917)
+com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.doBattleDamage(PixelmonWrapper.java:2579)
+com.pixelmonmod.pixelmon.battles.attacks.Attack.executeAttackEffects(Attack.java:668)
+com.pixelmonmod.pixelmon.battles.attacks.Attack.use(Attack.java:557)
+com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.useAttack(PixelmonWrapper.java:772)
+com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.useAttack(PixelmonWrapper.java:673)
+com.pixelmonmod.pixelmon.battles.controller.participants.PixelmonWrapper.takeTurn(PixelmonWrapper.java:1341)
+com.pixelmonmod.pixelmon.battles.controller.BattleControllerBase.takeTurn(BattleControllerBase.java:1147)
+com.pixelmonmod.pixelmon.battles.controller.BattleControllerBase.update(BattleControllerBase.java:479)
+com.pixelmonmod.pixelmon.battles.BattleRegistry.updateBattles(BattleRegistry.java:252)
+com.pixelmonmod.pixelmon.battles.BattleTickHandler.tickStart(BattleTickHandler.java:17)
+net.minecraftforge.fml.common.eventhandler.ASMEventHandler_80_BattleTickHandler_tickStart_WorldTickEvent.invoke(.dynamic)
+net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+net.minecraftforge.fml.common.FMLCommonHandler.onPostWorldTick(FMLCommonHandler.java:274)
+net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:776)
+net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+java.lang.Thread.run(Thread.java:748)

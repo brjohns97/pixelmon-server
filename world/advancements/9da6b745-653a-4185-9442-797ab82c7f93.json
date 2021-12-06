@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2021-12-04 00:25:57 -0600"
+    },
+    "done": true
+  },
   "pixelmon:pokedex/pokedex_percent_10": {
     "criteria": {
       "pokedex_percent_10": "2021-11-12 19:18:42 -0600"
@@ -663,6 +669,12 @@
     },
     "done": true
   },
+  "pixelmon:types/capture_psychic_25": {
+    "criteria": {
+      "capture_psychic_25": "2021-12-05 00:59:28 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2021-11-05 22:18:17 -0500"
@@ -737,9 +749,21 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/rayquaza_capture_trigger": {
+    "criteria": {
+      "rayquaza_capture": "2021-12-02 15:58:55 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2021-11-07 13:41:17 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:legendaries/entei_capture_trigger": {
+    "criteria": {
+      "entei_capture": "2021-12-02 14:42:15 -0600"
     },
     "done": true
   },
@@ -806,6 +830,12 @@
   "pixelmon:types/capture_flying_25": {
     "criteria": {
       "capture_flying_25": "2021-11-23 23:26:02 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:legendaries/latios_capture_trigger": {
+    "criteria": {
+      "latios_capture": "2021-12-03 11:37:47 -0600"
     },
     "done": true
   },
@@ -1145,6 +1175,12 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/deoxys_capture_trigger": {
+    "criteria": {
+      "deoxys_capture": "2021-12-03 00:39:02 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2021-11-05 22:18:17 -0500"
@@ -1278,7 +1314,9 @@
       "savanna_rock": "2021-11-07 22:36:59 -0600",
       "ice_mountains": "2021-11-08 20:51:28 -0600",
       "taiga": "2021-11-08 00:00:00 -0600",
+      "redwood_taiga": "2021-12-03 19:09:50 -0600",
       "taiga_hills": "2021-11-08 00:00:14 -0600",
+      "redwood_taiga_hills": "2021-12-03 19:10:38 -0600",
       "birch_forest_hills": "2021-11-07 23:39:39 -0600",
       "mushroom_island": "2021-11-10 23:20:08 -0600",
       "taiga_cold": "2021-11-08 20:48:28 -0600",
@@ -1291,7 +1329,7 @@
       "desert": "2021-11-05 22:09:42 -0500",
       "stone_beach": "2021-11-07 22:39:30 -0600"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/book": {
     "criteria": {
@@ -1320,6 +1358,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2021-11-05 22:50:52 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:specs/drowned_capture": {
+    "criteria": {
+      "drowned_spec_trigger": "2021-12-03 12:04:25 -0600"
     },
     "done": true
   },
@@ -1412,6 +1456,12 @@
       "0": "2021-11-19 13:02:42 -0600"
     },
     "done": false
+  },
+  "pixelmon:types/capture_ground_25": {
+    "criteria": {
+      "capture_ground_25": "2021-12-04 12:53:35 -0600"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
@@ -1524,6 +1574,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2021-11-07 15:24:39 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2021-12-04 23:12:49 -0600"
     },
     "done": true
   },
@@ -1785,6 +1841,12 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/latias_capture_trigger": {
+    "criteria": {
+      "latias_capture": "2021-12-05 00:59:28 -0600"
+    },
+    "done": true
+  },
   "pixelmon:legendaries/moltres_capture_trigger": {
     "criteria": {
       "moltres_capture": "2021-11-15 01:06:51 -0600"
@@ -1819,6 +1881,7 @@
       "apple": "2021-11-05 22:20:22 -0500",
       "potato": "2021-11-05 22:28:48 -0500",
       "cooked_cod": "2021-11-07 01:22:46 -0500",
+      "rabbit": "2021-12-03 11:00:09 -0600",
       "mutton": "2021-11-14 03:26:22 -0600",
       "bread": "2021-11-06 02:35:38 -0500",
       "raw_cod": "2021-11-05 22:40:27 -0500",
@@ -2174,6 +2237,12 @@
     },
     "done": true
   },
+  "pixelmon:types/capture_fire_25": {
+    "criteria": {
+      "capture_fire_25": "2021-12-02 14:26:31 -0600"
+    },
+    "done": true
+  },
   "pixelmon:recipes/machines/pc": {
     "criteria": {
       "has_aluminium_plate": "2021-11-05 22:58:34 -0500"
@@ -2279,6 +2348,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2021-11-07 13:41:17 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:legendaries/suicune_capture_trigger": {
+    "criteria": {
+      "suicune_capture": "2021-12-03 16:31:58 -0600"
     },
     "done": true
   },
@@ -2447,6 +2522,12 @@
     },
     "done": true
   },
+  "pixelmon:types/capture_fairy_10": {
+    "criteria": {
+      "capture_fairy_10": "2021-12-05 20:36:20 -0600"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2021-11-09 22:09:42 -0600"
@@ -2591,6 +2672,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2021-11-07 13:41:17 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:legendaries/groudon_capture_trigger": {
+    "criteria": {
+      "groudon_capture": "2021-12-02 13:49:57 -0600"
     },
     "done": true
   },
@@ -3018,6 +3105,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2021-11-05 22:51:30 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:legendaries/raikou_capture_trigger": {
+    "criteria": {
+      "raikou_capture": "2021-12-03 15:59:06 -0600"
     },
     "done": true
   },

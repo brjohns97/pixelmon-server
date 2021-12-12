@@ -297,6 +297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2021-12-05 23:04:24 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-11-07 01:16:19 -0600"
@@ -451,6 +457,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2021-11-08 01:17:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2021-12-05 23:04:24 -0600"
     },
     "done": true
   },
@@ -813,6 +825,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-11-07 18:16:14 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:legendaries/kyogre_capture_trigger": {
+    "criteria": {
+      "kyogre_capture": "2021-12-09 21:45:03 -0600"
     },
     "done": true
   },
@@ -1954,6 +1972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2021-12-06 00:34:38 -0600"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/white_folding_chair": {
     "criteria": {
       "has_wool": "2021-11-07 13:07:24 -0600"
@@ -2205,6 +2229,12 @@
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2021-11-07 00:55:47 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2021-12-08 01:25:00 -0600"
     },
     "done": true
   },

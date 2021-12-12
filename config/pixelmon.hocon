@@ -691,7 +691,7 @@ Spawning {
     # The maximum number of Pokémon that can be naturally spawned in at once (soft limit). This does not count fishing, external moves, commands, or legendary spawning.
     maximumSpawnedPokemon=3000
     # Chance for a Meltan to spawn when smelting a metal ore block. 1/x
-    meltanSpawnChance=3072
+    meltanSpawnChance=1000
     # Percentage chance for a Meltan to transform into Ditto on capture.
     meltanTransformChance=0.25
     # The minimum number of blocks between a spawned entity and an existing living entity.

@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2021-12-07 00:32:41 -0600"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/pink_rug": {
     "criteria": {
       "has_wool": "2021-11-07 15:24:39 -0600"
@@ -306,6 +312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2021-12-10 21:00:36 -0600"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/brown_vending_machine": {
     "criteria": {
       "has_fresh_water": "2021-11-08 21:30:46 -0600"
@@ -345,6 +357,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-11-07 14:18:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2021-12-06 01:58:05 -0600"
     },
     "done": true
   },
@@ -591,6 +609,12 @@
     },
     "done": true
   },
+  "pixelmon:pokedex/pokedex_percent_50": {
+    "criteria": {
+      "pokedex_percent_50": "2021-12-10 21:15:43 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2021-11-07 19:53:49 -0600"
@@ -633,9 +657,21 @@
     },
     "done": true
   },
+  "pixelmon:types/capture_ice_10": {
+    "criteria": {
+      "capture_ice_10": "2021-12-08 00:32:17 -0600"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2021-11-23 22:00:04 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_dragon_25": {
+    "criteria": {
+      "capture_dragon_25": "2021-12-07 21:59:57 -0600"
     },
     "done": true
   },
@@ -678,6 +714,18 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2021-11-05 22:18:17 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:balls/timer_ball_capture": {
+    "criteria": {
+      "timer_ball_capture": "2021-12-10 21:05:35 -0600"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2021-12-05 22:25:50 -0600"
     },
     "done": true
   },
@@ -806,6 +854,12 @@
   "pixelmon:legendaries/mewtwo_capture_trigger": {
     "criteria": {
       "mewtwo_capture": "2021-11-20 00:28:58 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_poison_25": {
+    "criteria": {
+      "capture_poison_25": "2021-12-09 20:27:23 -0600"
     },
     "done": true
   },
@@ -1085,6 +1139,12 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/regice_capture_trigger": {
+    "criteria": {
+      "regice_capture": "2021-12-08 00:32:17 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-11-05 22:18:17 -0500"
@@ -1166,6 +1226,12 @@
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
       "has_planks": "2021-11-07 18:59:34 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-12-10 21:00:37 -0600"
     },
     "done": true
   },
@@ -1337,6 +1403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2021-12-10 21:00:37 -0600"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/yellow_clock": {
     "criteria": {
       "has_clock": "2021-11-18 23:33:24 -0600"
@@ -1499,6 +1571,12 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/registeel_capture_trigger": {
+    "criteria": {
+      "registeel_capture": "2021-12-08 01:23:05 -0600"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/orange_umbrella": {
     "criteria": {
       "has_wool": "2021-11-07 15:24:39 -0600"
@@ -1601,6 +1679,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2021-12-10 21:00:36 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_grass_25": {
+    "criteria": {
+      "capture_grass_25": "2021-12-11 01:27:16 -0600"
+    },
+    "done": true
+  },
   "pixelmon:recipes/machines/pink_vending_machine": {
     "criteria": {
       "has_fresh_water": "2021-11-08 21:30:46 -0600"
@@ -1628,6 +1718,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-11-05 22:28:00 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2021-12-10 21:00:36 -0600"
     },
     "done": true
   },
@@ -1886,6 +1982,7 @@
       "bread": "2021-11-06 02:35:38 -0500",
       "raw_cod": "2021-11-05 22:40:27 -0500",
       "beetroot": "2021-11-05 22:25:08 -0500",
+      "cooked_chicken": "2021-12-09 00:15:19 -0600",
       "carrot": "2021-11-06 00:45:44 -0500"
     },
     "done": false
@@ -1893,6 +1990,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-11-05 22:13:50 -0500"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_ghost_25": {
+    "criteria": {
+      "capture_ghost_25": "2021-12-11 15:53:09 -0600"
     },
     "done": true
   },
@@ -2243,6 +2346,12 @@
     },
     "done": true
   },
+  "pixelmon:recipes/decorative/blue_folding_chair": {
+    "criteria": {
+      "has_wool": "2021-12-10 21:00:36 -0600"
+    },
+    "done": true
+  },
   "pixelmon:recipes/machines/pc": {
     "criteria": {
       "has_aluminium_plate": "2021-11-05 22:58:34 -0500"
@@ -2339,6 +2448,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2021-12-10 21:00:37 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_banner": {
     "criteria": {
       "has_green_wool": "2021-11-17 02:01:52 -0600"
@@ -2413,6 +2528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2021-12-10 21:00:37 -0600"
+    },
+    "done": true
+  },
   "pixelmon:recipes/machines/orange_vending_machine": {
     "criteria": {
       "has_the_recipe": "2021-11-08 21:30:46 -0600",
@@ -2468,6 +2589,12 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/mew_capture_trigger": {
+    "criteria": {
+      "mew_capture": "2021-12-11 02:09:31 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2021-11-05 22:16:21 -0500"
@@ -2477,6 +2604,12 @@
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2021-11-06 00:45:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2021-12-07 00:32:39 -0600"
     },
     "done": true
   },
@@ -2729,6 +2862,12 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/lugia_capture_trigger": {
+    "criteria": {
+      "lugia_capture": "2021-12-08 14:15:17 -0600"
+    },
+    "done": true
+  },
   "pixelmon:recipes/decorative/pink_cushion_chair": {
     "criteria": {
       "has_wool": "2021-11-07 15:24:39 -0600"
@@ -2798,6 +2937,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2021-11-07 13:26:35 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:types/capture_bug_25": {
+    "criteria": {
+      "capture_bug_25": "2021-12-11 17:21:32 -0600"
     },
     "done": true
   },
@@ -2891,6 +3036,12 @@
     },
     "done": true
   },
+  "pixelmon:legendaries/regirock_capture_trigger": {
+    "criteria": {
+      "regirock_capture": "2021-12-08 00:05:24 -0600"
+    },
+    "done": true
+  },
   "pixelmon:recipes/machines/red_vending_machine": {
     "criteria": {
       "has_fresh_water": "2021-11-08 21:30:46 -0600"
@@ -2943,6 +3094,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2021-11-15 01:09:30 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2021-12-10 21:00:37 -0600"
     },
     "done": true
   },

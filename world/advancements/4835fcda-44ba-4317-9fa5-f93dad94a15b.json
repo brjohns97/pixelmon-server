@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-12-18 20:56:33 -0600"
+    },
+    "done": true
+  },
   "pixelmon:types/capture_normal_10": {
     "criteria": {
       "capture_normal_10": "2021-11-08 19:40:19 -0600"
@@ -445,6 +451,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2021-11-07 02:14:02 -0600"
+    },
+    "done": true
+  },
+  "pixelmon:pokedex/pokedex_percent_25": {
+    "criteria": {
+      "pokedex_percent_25": "2021-12-14 22:27:34 -0600"
     },
     "done": true
   },
@@ -1764,6 +1776,12 @@
   "pixelmon:recipes/decorative/orange_cushion_chair": {
     "criteria": {
       "has_wool": "2021-11-07 13:07:24 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-12-18 20:56:33 -0600"
     },
     "done": true
   },

@@ -1,142 +1,75 @@
-[00:26:20] [User Authenticator #41/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player nobeet55 is 9da6b745-653a-4185-9442-797ab82c7f93
-[00:26:20] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[00:26:20] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 11 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2855,inventorytweaks@1.63+release.109.220f184,backpack@3.0.2,pixelmonbroadcasts@1.12.2-1.1.1-universal,waystones@4.0.72,mcp@9.42,journeymap@1.12.2-5.7.0,jei@4.16.1.301,pixelmon@8.3.3
-[00:26:20] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
-[00:26:20] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, pixelextras, luckperms] at CLIENT
-[00:26:20] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:26:20] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: nobeet55 [/76.191.25.223:57694] logged in with entity id [297925] in world (minecraft:overworld/0) at (6857.418794346759, 67.0, 979.886451653632).
-[00:26:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 joined the game
-[00:26:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary, Mankey, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[00:27:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Rare, Bellsprout, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[00:27:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Uncommon, Roggenrola, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[00:29:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Rare, Venipede, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[00:30:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Uncommon, Magikarp, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[00:31:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary, Mega Pinsir, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[00:32:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 0]
-[00:34:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 0]
-[00:38:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary, Tapu Bulu, has spawned in a Jungle biome somewhere in the Overworld!
-[00:38:17] [Server thread/INFO] [PixelmonBroadcasts]: A Tapu Bulu spawned at MutableBlockPos{x=6835, y=67, z=1019} in dimension 0 (Overworld)
-[00:39:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > nobeet55 defeated the Legendary Tapu Bulu...
-[00:39:00] [Server thread/INFO] [PixelmonBroadcasts]: nobeet55 (9da6b745-653a-4185-9442-797ab82c7f93) defeated a Tapu Bulu at BlockPos{x=6834, y=70, z=1016} in dimension 0 (Overworld)
-[00:44:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 0]
-[00:45:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Epic, Mankey, Boss has spawned in a JungleHills biome somewhere in the Overworld!
-[00:46:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary, Tapu Koko, has spawned in a Jungle biome somewhere in the Overworld!
-[00:46:01] [Server thread/INFO] [PixelmonBroadcasts]: A Tapu Koko spawned at MutableBlockPos{x=6889, y=64, z=963} in dimension 0 (Overworld)
-[00:47:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Ultimate, Mega Sceptile, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[00:49:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary Tapu Koko, with 57% IVs, was caught by nobeet55!
-[00:49:59] [Server thread/INFO] [PixelmonBroadcasts]: nobeet55 (9da6b745-653a-4185-9442-797ab82c7f93) caught a Tapu Koko at BlockPos{x=6890, y=65, z=961} in dimension 0 (Overworld)
-[00:50:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 7000]
-[00:51:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Rare, Bellsprout, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[00:55:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 7000]
-[00:57:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 7000]
-[00:59:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Ultimate, Chatot, Boss has spawned in a JungleHills biome somewhere in the Overworld!
-[01:00:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary, Tapu Bulu, has spawned in a Jungle biome somewhere in the Overworld!
-[01:00:11] [Server thread/INFO] [PixelmonBroadcasts]: A Tapu Bulu spawned at MutableBlockPos{x=6904, y=67, z=1025} in dimension 0 (Overworld)
-[01:01:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > nobeet55 defeated the Ultimate, Mega Sceptile, Boss...
-[01:01:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary, Bellsprout, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[01:01:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Rare, Grubbin, Boss has spawned in a JungleHills biome somewhere in the Overworld!
-[01:01:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > nobeet55 defeated the Legendary, Bellsprout, Boss...
-[01:02:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Ultimate, Roggenrola, Boss has spawned in a Plains biome somewhere in the Overworld!
-[01:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 7000]
-[01:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 7000]
-[01:03:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Joltik, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[01:03:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Rare, Geodude, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[01:04:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Uncommon, Red Basculin, Boss has spawned in a River biome somewhere in the Overworld!
-[01:06:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 7000]
-[01:06:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Ultimate, Venipede, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[01:10:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 7000]
-[01:12:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Changing to clear weather]
-[01:13:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary, Mega Pinsir, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[01:13:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary, Tapu Bulu, has spawned in a Jungle biome somewhere in the Overworld!
-[01:13:24] [Server thread/INFO] [PixelmonBroadcasts]: A Tapu Bulu spawned at MutableBlockPos{x=6804, y=69, z=981} in dimension 0 (Overworld)
-[01:14:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > nobeet55 defeated the Legendary, Mega Pinsir, Boss...
-[01:14:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Ultra Wormhole has opened in a River biome somewhere in the Overworld!
-[01:15:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 7000]
-[01:23:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Uncommon, Mankey, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[01:23:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary, Tapu Lele, has spawned in a Jungle biome somewhere in the Overworld!
-[01:23:50] [Server thread/INFO] [PixelmonBroadcasts]: A Tapu Lele spawned at MutableBlockPos{x=6811, y=63, z=929} in dimension 0 (Overworld)
-[01:24:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary, Mankey, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[01:24:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 7000]
-[01:25:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Changing to clear weather]
-[01:25:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 7000]
-[01:25:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Changing to clear weather]
-[01:25:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 7000]
-[01:27:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved wrongly!
-[01:28:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Geodude, Boss has spawned in a Plains biome somewhere in the Overworld!
-[01:28:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Mareep, Boss has spawned in a Plains biome somewhere in the Overworld!
-[01:28:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Ultimate, Chikorita, Boss has spawned in a Plains biome somewhere in the Overworld!
-[01:29:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary, Pidove, Boss has spawned in a Plains biome somewhere in the Overworld!
-[01:29:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > nobeet55 defeated the Ultimate, Chikorita, Boss...
-[01:29:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > nobeet55 defeated the Legendary, Pidove, Boss...
-[01:29:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved too quickly! 0.6652470903116523,-13.746364524648214,-1.4573229333877862
-[01:40:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 7000]
-[01:42:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Grubbin, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[01:44:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 7000]
-[01:47:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Rare, Chatot, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[01:47:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary, Tapu Bulu, has spawned in a Jungle biome somewhere in the Overworld!
-[01:47:32] [Server thread/INFO] [PixelmonBroadcasts]: A Tapu Bulu spawned at MutableBlockPos{x=6815, y=69, z=1012} in dimension 0 (Overworld)
-[01:48:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Whismur, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[01:48:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 7000]
-[01:52:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 7000]
-[01:57:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 7000]
-[02:00:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 7000]
-[02:01:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Epic, Joltik, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[02:02:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Pansage, Boss has spawned in a Jungle biome somewhere in the Overworld!
-[02:03:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary, Tapu Fini, has spawned in a Jungle biome somewhere in the Overworld!
-[02:03:50] [Server thread/INFO] [PixelmonBroadcasts]: A Tapu Fini spawned at MutableBlockPos{x=6838, y=62, z=965} in dimension 0 (Overworld)
-[02:05:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary Tapu Fini, with 81% IVs, was caught by nobeet55!
-[02:05:07] [Server thread/INFO] [PixelmonBroadcasts]: nobeet55 (9da6b745-653a-4185-9442-797ab82c7f93) caught a Tapu Fini at BlockPos{x=6838, y=65, z=968} in dimension 0 (Overworld)
-[02:06:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Furret, Boss has spawned in a Plains biome somewhere in the Overworld!
-[02:13:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Ultra Wormhole has opened in a River biome somewhere in the Overworld!
-[02:14:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Rare, Helioptile, Boss has spawned in a Desert biome somewhere in the Overworld!
-[02:16:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary, Zacian, has spawned in a Forest biome somewhere in the Overworld!
-[02:16:30] [Server thread/INFO] [PixelmonBroadcasts]: A Zacian spawned at MutableBlockPos{x=-10, y=76, z=652} in dimension 0 (Overworld)
-[02:16:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Rare, Pidgey, Boss has spawned in a Forest biome somewhere in the Overworld!
-[02:17:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Epic, Mega Ampharos, Boss has spawned in a Plains biome somewhere in the Overworld!
-[02:17:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Uncommon, Pidove, Boss has spawned in a Plains biome somewhere in the Overworld!
-[02:17:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Uncommon, Pidgey, Boss has spawned in a Taiga M biome somewhere in the Overworld!
-[02:23:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Epic, Drilbur, Boss has spawned in a River biome somewhere in the Overworld!
-[02:27:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Ultimate, Mega Sableye, Boss has spawned in a Extreme Hills biome somewhere in the Overworld!
-[02:32:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Uncommon, Gastly, Boss has spawned in a Taiga M biome somewhere in the Overworld!
-[02:35:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Epic, Geodude, Boss has spawned in a Taiga M biome somewhere in the Overworld!
-[02:42:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Woobat, Boss has spawned in a Taiga biome somewhere in the Overworld!
-[02:42:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Uncommon, Diglett, Boss has spawned in a Taiga M biome somewhere in the Overworld!
-[02:44:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 tried to swim in lava
-[02:48:18] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
-[02:53:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Successfully gave nobeet55 a Glalie!
-[02:53:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server gave nobeet55 a Glalie!
-[02:55:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Gastly, Boss has spawned in a Swampland biome somewhere in the Overworld!
-[02:55:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Epic, Mega Sableye, Boss has spawned in a Swampland biome somewhere in the Overworld!
-[02:59:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Rare, Surskit, Boss has spawned in a Swampland biome somewhere in the Overworld!
-[03:00:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Zubat, Boss has spawned in a Swampland biome somewhere in the Overworld!
-[03:01:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Drilbur, Boss has spawned in a Swampland biome somewhere in the Overworld!
-[03:02:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Roggenrola, Boss has spawned in a Swampland biome somewhere in the Overworld!
-[03:02:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Bunnelby, Boss has spawned in a Swampland biome somewhere in the Overworld!
-[03:05:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Rare, Corphish, Boss has spawned in a Swampland biome somewhere in the Overworld!
-[03:05:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Uncommon, Corphish, Boss has spawned in a Swampland biome somewhere in the Overworld!
-[03:09:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Epic, Geodude, Boss has spawned in a Swampland biome somewhere in the Overworld!
-[03:10:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Uncommon, Zubat, Boss has spawned in a Swampland biome somewhere in the Overworld!
-[03:15:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Decidueye moved wrongly!
-[03:16:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 suffocated in a wall
-[03:16:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Uncommon, Chikorita, Boss has spawned in a Plains biome somewhere in the Overworld!
-[03:17:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary, Electrike, Boss has spawned in a Plains biome somewhere in the Overworld!
-[03:17:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Ultra Wormhole has opened in a Plains biome somewhere in the Overworld!
-[03:17:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 lost connection: Disconnected
-[03:17:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 left the game
-[03:18:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[03:18:13] [Server thread/INFO] [luckperms]: Starting shutdown process...
-[03:18:13] [Server thread/INFO] [luckperms]: Closing storage...
-[03:18:13] [Server thread/INFO] [luckperms]: Goodbye!
-[03:18:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[03:18:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[03:18:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[03:18:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/0
-[03:18:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM-1'/-1
-[03:18:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM1'/1
-[03:18:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ultra'/72
-[03:18:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'drowned'/73
-[03:18:13] [Server thread/INFO] [Sponge]: Unloading world [world] (minecraft:overworld/0)
-[03:18:13] [Server thread/INFO] [Sponge]: Unloading world [DIM-1] (minecraft:nether/-1)
-[03:18:13] [Server thread/INFO] [Sponge]: Unloading world [DIM1] (minecraft:the_end/1)
-[03:18:13] [Server thread/INFO] [Sponge]: Unloading world [ultra] (pixelmon:ultra_space/72)
-[03:18:13] [Server thread/INFO] [Sponge]: Unloading world [drowned] (pixelmon:drowned_world/73)
+[10:54:12] [User Authenticator #54/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player nobeet55 is 9da6b745-653a-4185-9442-797ab82c7f93
+[10:54:12] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[10:54:12] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 11 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2855,inventorytweaks@1.63+release.109.220f184,backpack@3.0.2,pixelmonbroadcasts@1.12.2-1.1.1-universal,waystones@4.0.72,mcp@9.42,journeymap@1.12.2-5.7.0,jei@4.16.1.301,pixelmon@8.3.3
+[10:54:12] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[10:54:12] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [spongeapi, sponge, spongeforge, pixelextras, luckperms] at CLIENT
+[10:54:13] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[10:54:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: nobeet55 [/76.191.25.223:52716] logged in with entity id [242577] in world (minecraft:overworld/0) at (-965.6312509441133, 79.0, 1840.97569024267).
+[10:54:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 joined the game
+[10:54:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 0]
+[10:54:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Rare, Skwovet, Boss has spawned in a Forest biome somewhere in the Overworld!
+[10:55:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Sentret, Boss has spawned in a Sunflower Plains biome somewhere in the Overworld!
+[10:56:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved too quickly! -0.7083257861148695,-21.7185539368065,1.543670053865526
+[10:57:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Uncommon, Ponyta, Boss has spawned in a Plains biome somewhere in the Overworld!
+[10:57:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Uncommon, Jangmo-o, Boss has spawned in a Extreme Hills biome somewhere in the Overworld!
+[10:57:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Rare, Meowth, Boss has spawned in a Plains biome somewhere in the Overworld!
+[10:57:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Epic, Mega Beedrill, Boss has spawned in a Forest biome somewhere in the Overworld!
+[10:59:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Ultimate, Taillow, Boss has spawned in a Roofed Forest biome somewhere in the Overworld!
+[11:01:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Pidove, Boss has spawned in a Sunflower Plains biome somewhere in the Overworld!
+[11:04:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Uncommon, Electrike, Boss has spawned in a Plains biome somewhere in the Overworld!
+[11:04:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Epic, Weedle, Boss has spawned in a Forest biome somewhere in the Overworld!
+[11:04:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Ultra Wormhole has opened in a River biome somewhere in the Overworld!
+[11:04:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Rare, Mareep, Boss has spawned in a Plains biome somewhere in the Overworld!
+[11:05:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 0]
+[11:05:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Rare, Ledyba, Boss has spawned in a Roofed Forest biome somewhere in the Overworld!
+[11:06:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Ultimate, Geodude, Boss has spawned in a Roofed Forest biome somewhere in the Overworld!
+[11:07:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Taillow, Boss has spawned in a Roofed Forest biome somewhere in the Overworld!
+[11:07:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Ultimate, Mega Alakazam, Boss has spawned in a Roofed Forest biome somewhere in the Overworld!
+[11:08:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Rare, Meowth, Boss has spawned in a Plains biome somewhere in the Overworld!
+[11:10:29] [Server thread/WARN] [Sponge]: EntityPixelmon['Snubbull'/244618, l='world', x=-1794.11, y=132.57, z=3354.70] is not in chunk (-60, 111) and is instead in chunk (-113, 209) within world world, skipping save. This is a bug fix to a vanilla bug. Do not report this to Sponge or Forge please.
+[11:10:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Epic, Zigzagoon, Boss has spawned in a Plains biome somewhere in the Overworld!
+[11:11:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved too quickly! 1.7196156169646883,-14.79260021787772,1.7058442301270134
+[11:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary, Xerneas, has spawned in a Roofed Forest biome somewhere in the Overworld!
+[11:12:01] [Server thread/INFO] [PixelmonBroadcasts]: A Xerneas spawned at MutableBlockPos{x=-945, y=64, z=1909} in dimension 0 (Overworld)
+[11:12:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved too quickly! 0.6668738383247046,-12.197370340748364,-2.1655764303186515
+[11:14:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Skiploom, Boss has spawned in a Sunflower Plains biome somewhere in the Overworld!
+[11:14:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Ultimate, Mega Ampharos, Boss has spawned in a Plains biome somewhere in the Overworld!
+[11:15:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Uncommon, Weedle, Boss has spawned in a Roofed Forest biome somewhere in the Overworld!
+[11:16:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [nobeet55: Set the time to 0]
+[11:17:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Decidueye moved wrongly!
+[11:19:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Arbok, Boss has spawned in a Plains biome somewhere in the Overworld!
+[11:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Rare, Electrike, Boss has spawned in a Plains biome somewhere in the Overworld!
+[11:20:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 moved too quickly! 0.1198649149208677,-14.014854515455696,-0.8955426598558915
+[11:22:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Legendary, Tornadus, has spawned in a Plains biome somewhere in the Overworld!
+[11:22:58] [Server thread/INFO] [PixelmonBroadcasts]: A Tornadus spawned at MutableBlockPos{x=-983, y=84, z=1770} in dimension 0 (Overworld)
+[11:23:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Rare, Geodude, Boss has spawned in a Plains biome somewhere in the Overworld!
+[11:23:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Electrike, Boss has spawned in a Plains biome somewhere in the Overworld!
+[11:24:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Lillipup, Boss has spawned in a Plains biome somewhere in the Overworld!
+[11:24:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Pidgey, Boss has spawned in a Roofed Forest biome somewhere in the Overworld!
+[11:25:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Rare, Abra, Boss has spawned in a Roofed Forest M biome somewhere in the Overworld!
+[11:26:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Ultra Wormhole has opened in a Plains biome somewhere in the Overworld!
+[11:26:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Ultimate, Mega Ampharos, Boss has spawned in a Plains biome somewhere in the Overworld!
+[11:29:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Ekans, Boss has spawned in a Savanna Plateau M biome somewhere in the Overworld!
+[11:29:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > An Uncommon, Clefairy, Boss has spawned in a Savanna Plateau M biome somewhere in the Overworld!
+[11:31:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] > A Common, Clefairy, Boss has spawned in a Savanna Plateau M biome somewhere in the Overworld!
+[11:37:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: nobeet55 lost connection: Disconnected
+[11:37:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: nobeet55 left the game
+[20:00:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Pixelmon] Mewtwo has appeared in a den in a The End biome!
+[20:00:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Spawned Mewtwo at: DIM1 x:73, y:58, z:44
+[23:36:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[23:36:50] [Server thread/INFO] [luckperms]: Starting shutdown process...
+[23:36:51] [Server thread/INFO] [luckperms]: Closing storage...
+[23:36:51] [Server thread/INFO] [luckperms]: Goodbye!
+[23:36:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:36:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:36:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[23:36:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/0
+[23:36:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM-1'/-1
+[23:36:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'DIM1'/1
+[23:36:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ultra'/72
+[23:36:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'drowned'/73
+[23:36:51] [Server thread/INFO] [Sponge]: Unloading world [world] (minecraft:overworld/0)
+[23:36:51] [Server thread/INFO] [Sponge]: Unloading world [DIM-1] (minecraft:nether/-1)
+[23:36:51] [Server thread/INFO] [Sponge]: Unloading world [DIM1] (minecraft:the_end/1)
+[23:36:51] [Server thread/INFO] [Sponge]: Unloading world [ultra] (pixelmon:ultra_space/72)
+[23:36:51] [Server thread/INFO] [Sponge]: Unloading world [drowned] (pixelmon:drowned_world/73)
